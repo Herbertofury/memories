@@ -11,7 +11,8 @@
       "date": null,
       "url": "https://www.youtube.com/@filmcow",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
-      "evidence": "Official creator links; playback untested."
+      "evidence": "Official creator links; playback untested.",
+      "originalDate": null
     },
     {
       "id": "charlie-the-unicorn",
@@ -23,7 +24,8 @@
       "dateLabel": "2005 · date discrepancy noted",
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
-      "evidence": "Original Newgrounds date; creator anniversary differs by one day. Compilation: 2021."
+      "evidence": "Original Newgrounds date; creator anniversary differs by one day. Compilation: 2021.",
+      "originalDate": "2005-11-26"
     },
     {
       "id": "lyle-rath",
@@ -34,7 +36,8 @@
       "date": null,
       "url": "https://www.youtube.com/user/Guitarmasterx7/videos",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/GuitarMasterX7.md",
-      "evidence": "Historical creator identity; playback not tested."
+      "evidence": "Historical creator identity; playback not tested.",
+      "originalDate": null
     },
     {
       "id": "zelda-milk",
@@ -53,7 +56,8 @@
       "evidence": "Original Newgrounds date and credits. Character labels supplied by user; playback untested.",
       "aliases": [
         "Ganon"
-      ]
+      ],
+      "originalDate": "2017-03-03"
     },
     {
       "id": "classic-0",
@@ -65,7 +69,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.imaginativelogo.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-1",
@@ -77,7 +82,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.crash.show/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-2",
@@ -89,7 +95,8 @@
       "dateLabel": "Date pending",
       "url": "https://linktr.ee/halofollower",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-3",
@@ -101,7 +108,8 @@
       "dateLabel": "Date pending",
       "url": null,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-4",
@@ -113,7 +121,8 @@
       "dateLabel": "Date pending",
       "url": null,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-5",
@@ -125,7 +134,8 @@
       "dateLabel": "Date pending",
       "url": "https://unsquare.com/portfolio/the-leet-world/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-6",
@@ -137,7 +147,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.patreon.com/cw/Eltorro64Rus",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-7",
@@ -149,7 +160,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UCKJ_K9leOcR74yF-R1vjYog",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-8",
@@ -161,7 +173,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/@doctorlalve",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-9",
@@ -173,7 +186,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UCc25bAyORoL7atRAtHI_YyQ",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "Channel title only; series inventory and playback unverified."
+      "evidence": "Channel title only; series inventory and playback unverified.",
+      "originalDate": null
     },
     {
       "id": "classic-10",
@@ -185,7 +199,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UCilz3PTMR4URfxq6UeRRL9Q",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-11",
@@ -197,7 +212,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UChcBFcAWmGjN4DJdnnhz2mA",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "Channel title only; series inventory and playback unverified."
+      "evidence": "Channel title only; series inventory and playback unverified.",
+      "originalDate": null
     },
     {
       "id": "classic-12",
@@ -209,7 +225,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/c/tf2thewinglet",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-13",
@@ -221,7 +238,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.patreon.com/RABtoons",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-14",
@@ -233,7 +251,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/user/NCHProductions/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-15",
@@ -245,7 +264,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.patreon.com/cw/dorkly",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-16",
@@ -257,7 +277,8 @@
       "dateLabel": "Date pending",
       "url": "https://happyharry.newgrounds.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-17",
@@ -269,7 +290,8 @@
       "dateLabel": "Date pending",
       "url": "https://carbotanimations.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-18",
@@ -281,7 +303,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/@SonicParadox",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-19",
@@ -293,7 +316,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.smashbits.net/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-20",
@@ -305,7 +329,8 @@
       "dateLabel": "Date pending",
       "url": "https://linktr.ee/CircleToonsHD",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-21",
@@ -317,7 +342,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.patreon.com/dopatwo",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-22",
@@ -329,7 +355,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UCNK813T2BNBwcfDPDTPeMPA",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-23",
@@ -341,7 +368,8 @@
       "dateLabel": "Date pending",
       "url": "https://youtube.com/dtoons",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-24",
@@ -353,7 +381,8 @@
       "dateLabel": "Date pending",
       "url": "https://eddsworld.co.uk/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-25",
@@ -365,7 +394,8 @@
       "dateLabel": "Date pending",
       "url": "https://explosm.net/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-26",
@@ -377,7 +407,8 @@
       "dateLabel": "Date pending",
       "url": null,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-27",
@@ -389,7 +420,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/Rigamarole",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "Channel title only; series inventory and playback unverified."
+      "evidence": "Channel title only; series inventory and playback unverified.",
+      "originalDate": null
     },
     {
       "id": "classic-28",
@@ -401,7 +433,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/channel/UCBNvuaTVFUfQlVt9uLeMOfA",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "unverified lead"
+      "evidence": "unverified lead",
+      "originalDate": null
     },
     {
       "id": "classic-29",
@@ -413,7 +446,8 @@
       "dateLabel": "Date pending",
       "url": "https://itssharkbait.newgrounds.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-30",
@@ -425,7 +459,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.newgrounds.com/series/awesome",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-31",
@@ -437,7 +472,8 @@
       "dateLabel": "Date pending",
       "url": "https://www.youtube.com/user/OneyNG",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-32",
@@ -449,7 +485,8 @@
       "dateLabel": "Date pending",
       "url": "https://doogtoons.newgrounds.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "classic-33",
@@ -461,7 +498,8 @@
       "dateLabel": "Date pending",
       "url": "https://junkyardanimations.newgrounds.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
-      "evidence": "primary source; playback untested"
+      "evidence": "primary source; playback untested",
+      "originalDate": null
     },
     {
       "id": "modern-doobus-goobus",
@@ -472,7 +510,8 @@
       "date": null,
       "url": "https://www.youtube.com/@doobusgoobus",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-flashgitz",
@@ -483,7 +522,8 @@
       "date": null,
       "url": "https://www.youtube.com/@Flashgitz",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-piemations",
@@ -494,7 +534,8 @@
       "date": null,
       "url": "https://www.youtube.com/@Piemations",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-sr-pelo",
@@ -505,7 +546,8 @@
       "date": null,
       "url": "https://www.youtube.com/@srpelo",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-cas-van-de-pol",
@@ -516,7 +558,8 @@
       "date": null,
       "url": "https://www.youtube.com/@cas",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-terminalmontage",
@@ -527,7 +570,8 @@
       "date": null,
       "url": "https://www.youtube.com/@TerminalMontage",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-meatcanyon",
@@ -538,7 +582,8 @@
       "date": null,
       "url": "https://www.youtube.com/@MeatCanyon",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-tomska",
@@ -549,7 +594,8 @@
       "date": null,
       "url": "https://www.youtube.com/@tomska",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-avocado-animations",
@@ -560,7 +606,8 @@
       "date": null,
       "url": "https://www.youtube.com/@avocadoanimations",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-mashed",
@@ -571,7 +618,8 @@
       "date": null,
       "url": "https://www.youtube.com/@mashed",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-zeurel-monkey-wrench",
@@ -582,7 +630,8 @@
       "date": null,
       "url": "https://zeurel.newgrounds.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-glitch-productions",
@@ -593,7 +642,8 @@
       "date": null,
       "url": "https://www.glitchprod.com/our-shows",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-spindlehorse-vivienne-medrano",
@@ -604,7 +654,8 @@
       "date": null,
       "url": "https://spindlehorse.com/pages/our-work",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-lackadaisy-production-team-iron-circus",
@@ -615,7 +666,8 @@
       "date": null,
       "url": "https://www.backerkit.com/c/projects/iron-circus-comics/lackadaisy-bookset-and-plushes/faqs",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "modern-zeddyzi-ramshackle-team",
@@ -626,7 +678,8 @@
       "date": null,
       "url": "https://zeddyzi.carrd.co/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested."
+      "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-the-amazing-digital-circus",
@@ -638,7 +691,8 @@
       "date": "2023-10",
       "url": "https://www.glitchprod.com/digital-circus",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": "2023-10"
     },
     {
       "id": "series-murder-drones",
@@ -650,7 +704,8 @@
       "date": "2021",
       "url": "https://www.glitchprod.com/our-shows",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": "2021"
     },
     {
       "id": "series-helluva-boss",
@@ -662,7 +717,8 @@
       "date": null,
       "url": "https://spindlehorse.com/pages/our-work",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-lackadaisy",
@@ -674,7 +730,8 @@
       "date": null,
       "url": "https://www.youtube.com/LackadaisyComic",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-ramshackle",
@@ -686,7 +743,8 @@
       "date": "2019",
       "url": "https://zeddyzi.carrd.co/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": "2019"
     },
     {
       "id": "series-monkey-wrench",
@@ -698,7 +756,8 @@
       "date": null,
       "url": "https://www.newgrounds.com/series/monkey-wrench",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-space-king",
@@ -710,7 +769,8 @@
       "date": null,
       "url": "https://www.youtube.com/@Flashgitz",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-spooky-month",
@@ -722,7 +782,8 @@
       "date": null,
       "url": "https://www.youtube.com/@srpelo",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-suction-cup-man",
@@ -734,7 +795,8 @@
       "date": null,
       "url": "https://www.piemations.com/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-asdfmovie",
@@ -746,7 +808,8 @@
       "date": null,
       "url": "https://www.youtube.com/watch?v=IYnsfV5N2n8",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "series-the-fruitless-quests-of-nabiu",
@@ -758,7 +821,8 @@
       "date": null,
       "url": "https://www.patreon.com/cw/terminalmontage",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
-      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested."
+      "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
+      "originalDate": null
     },
     {
       "id": "video-helluva-boss-s1e1-murder-family",
@@ -769,7 +833,8 @@
       "url": "https://www.youtube.com/watch?v=el_PChGfJN8",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "description": "Official episode link. Dates distinguish the episode from an earlier thesis film or pilot.",
-      "evidence": "Primary-source metadata; playback untested."
+      "evidence": "Primary-source metadata; playback untested.",
+      "originalDate": "2020-10-31"
     },
     {
       "id": "video-the-amazing-digital-circus-pilot",
@@ -780,7 +845,8 @@
       "url": "https://www.youtube.com/watch?v=HwAPLk_sQ3w",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "description": "Official episode link. Dates distinguish the episode from an earlier thesis film or pilot.",
-      "evidence": "Primary-source metadata; playback untested."
+      "evidence": "Primary-source metadata; playback untested.",
+      "originalDate": "2023-10"
     },
     {
       "id": "video-ramshackle-pilot",
@@ -791,7 +857,8 @@
       "url": "https://www.youtube.com/watch?v=i1r2QqSpJ5o",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "description": "Official episode link. Dates distinguish the episode from an earlier thesis film or pilot.",
-      "evidence": "Primary-source metadata; playback untested."
+      "evidence": "Primary-source metadata; playback untested.",
+      "originalDate": "2024-04-06"
     },
     {
       "id": "requested-unresolved-ucrcmfzw",
@@ -802,7 +869,8 @@
       "url": "https://www.youtube.com/channel/UCrCMFZWdjklAWjbvMt18waw",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "description": "Preserved exact requested channel link. Its identity and series have not been verified.",
-      "evidence": "Fetch throttled; no identity guessed."
+      "evidence": "Fetch throttled; no identity guessed.",
+      "originalDate": null
     },
     {
       "id": "master-chief-series",
@@ -817,7 +885,8 @@
         "Master Chief",
         "Chief"
       ],
-      "evidence": "Creator historical post corroborates four titles, not complete order. Playback untested."
+      "evidence": "Creator historical post corroborates four titles, not complete order. Playback untested.",
+      "originalDate": null
     },
     {
       "id": "master-chief-2",
@@ -834,7 +903,9 @@
       "url": "https://www.youtube.com/watch?v=Z4nKWLVZW9I",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/GuitarMasterX7.md",
       "description": "Requested position 2; order provisional. Historical title may contain offensive language.",
-      "evidence": "Historical creator-linked URL; playback untested. Creator post labels this reuploaded."
+      "evidence": "Historical creator-linked URL; playback untested. Creator post labels this reuploaded. Original publication date unknown; creator link documented by 2009-10-15 (not a release date).",
+      "originalDate": null,
+      "documentedBy": "2009-10-15"
     },
     {
       "id": "master-chief-4",
@@ -851,7 +922,9 @@
       "url": "https://www.youtube.com/watch?v=-BLTPhnCXDA",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/GuitarMasterX7.md",
       "description": "Requested position 4; order provisional. Historical title may contain offensive language.",
-      "evidence": "Historical creator-linked URL; playback untested."
+      "evidence": "Historical creator-linked URL; playback untested. Original publication date unknown; creator link documented by 2009-10-15 (not a release date).",
+      "originalDate": null,
+      "documentedBy": "2009-10-15"
     },
     {
       "id": "master-chief-6",
@@ -868,7 +941,9 @@
       "url": "https://www.youtube.com/watch?v=ro2uBiIhyNc",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/GuitarMasterX7.md",
       "description": "Requested position 6; order provisional. Historical title may contain offensive language.",
-      "evidence": "Historical creator-linked URL; playback untested."
+      "evidence": "Historical creator-linked URL; playback untested. Original publication date unknown; creator link documented by 2009-10-15 (not a release date).",
+      "originalDate": null,
+      "documentedBy": "2009-10-15"
     },
     {
       "id": "master-chief-8",
@@ -885,7 +960,9 @@
       "url": "https://www.youtube.com/watch?v=GS1SU_nWuDQ",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/GuitarMasterX7.md",
       "description": "Requested position 8; order provisional. Historical title may contain offensive language.",
-      "evidence": "Historical creator-linked URL; playback untested."
+      "evidence": "Historical creator-linked URL; playback untested. Original publication date unknown; creator link documented by 2009-10-14 (not a release date).",
+      "originalDate": null,
+      "documentedBy": "2009-10-14"
     },
     {
       "id": "charlie-episode-1",
@@ -902,7 +979,9 @@
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU&t=0s",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 1 in FilmCow’s official complete-series compilation.",
-      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested.",
+      "originalDate": null,
+      "uploadDate": "2021-12-02"
     },
     {
       "id": "charlie-episode-2",
@@ -919,7 +998,9 @@
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU&t=217s",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 2 in FilmCow’s official complete-series compilation.",
-      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested.",
+      "originalDate": null,
+      "uploadDate": "2021-12-02"
     },
     {
       "id": "charlie-episode-3",
@@ -936,7 +1017,9 @@
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU&t=569s",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 3 in FilmCow’s official complete-series compilation.",
-      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested.",
+      "originalDate": null,
+      "uploadDate": "2021-12-02"
     },
     {
       "id": "charlie-episode-4",
@@ -953,7 +1036,9 @@
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU&t=915s",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 4 in FilmCow’s official complete-series compilation.",
-      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested.",
+      "originalDate": null,
+      "uploadDate": "2021-12-02"
     },
     {
       "id": "charlie-episode-5",
@@ -970,7 +1055,9 @@
       "url": "https://www.youtube.com/watch?v=bKd_2vqPrmU&t=1217s",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 5 in FilmCow’s official complete-series compilation.",
-      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+      "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested.",
+      "originalDate": null,
+      "uploadDate": "2021-12-02"
     },
     {
       "id": "lio-banana-split",
@@ -984,7 +1071,9 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Music.md",
       "description": "The official French clip, a core memory. Historical video year and modern upload date are distinct.",
       "evidence": "Lio Officiel upload 2021-02-23; description dates the video to 1979. Playback untested.",
-      "coreMemory": true
+      "coreMemory": true,
+      "originalDate": "1979",
+      "uploadDate": "2021-02-23"
     },
     {
       "id": "psychicpebbles",
@@ -998,7 +1087,8 @@
       "aliases": [
         "Zach Hadel"
       ],
-      "evidence": "Creator profile inspected; debut chronology and playback untested."
+      "evidence": "Creator profile inspected; debut chronology and playback untested.",
+      "originalDate": null
     },
     {
       "id": "smiling-friends",
@@ -1019,7 +1109,8 @@
         "psychicpebbles"
       ],
       "description": "Adult Swim comedy with an official season-by-season episode directory. TV-MA; some episodes require a cable-provider login.",
-      "evidence": "Official directory and character descriptions inspected. Release chronology and playback unverified."
+      "evidence": "Official directory and character descriptions inspected. Release chronology and playback unverified.",
+      "originalDate": null
     }
   ]
 }
