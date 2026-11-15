@@ -2375,6 +2375,40 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "id": "core-scp-939",
+      "type": "character",
+      "name": "SCP-939",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Adam Smascher and EchoFourDelta / SCP Wiki",
+      "series": "SCP Foundation",
+      "characters": [
+        "SCP-939"
+      ],
+      "aliases": [
+        "With Many Voices",
+        "SCP 939"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original article publication date not verified",
+      "url": "https://scp-wiki.wikidot.com/scp-939",
+      "description": "User-selected favorite: a fictional species of red, eyeless pack predators that mimic human voices. Female and femboy designs for JetSetCraft's SCP gang are user-requested noncanonical variants, planned rather than implemented.",
+      "evidence": "Adapted from SCP-939 by Adam Smascher and EchoFourDelta, https://scp-wiki.wikidot.com/scp-939 . Adapted description CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Primary license box checked 2026-11-15. No private reference images or third-party models published.",
+      "artReferences": [
+        {
+          "title": "SCP-939: original article and license",
+          "url": "https://scp-wiki.wikidot.com/scp-939",
+          "artist": "Adam Smascher and EchoFourDelta (text)",
+          "license": "CC BY-SA 3.0 text; private reference image rights are separate and unverified.",
+          "revision": "Requested JetSetCraft variants are noncanonical design plans.",
+          "reviewStatus": "Original article and text attribution checked. No private images displayed.",
+          "displayPermitted": false,
+          "imageUrl": null
+        }
+      ]
     }
   ]
 }
