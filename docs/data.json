@@ -1301,7 +1301,7 @@
       "name": "Teen Titans (2003)",
       "category": "Core memories",
       "url": "https://www.dc.com/tv/teen-titans-2003-2005",
-      "date": null,
+      "date": "2003",
       "dateLabel": "2003 series; not Teen Titans Go!",
       "description": "Original animated series. DC identifies Robin, Beast Boy, Cyborg, Raven and Starfire.",
       "characters": [
@@ -1317,7 +1317,7 @@
       "evidence": "Official DC series page; episode inventory incomplete",
       "coreMemory": true,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
-      "originalDate": null
+      "originalDate": "2003"
     },
     {
       "id": "core-sonic",
@@ -1377,13 +1377,13 @@
       "name": "Divine Divinity",
       "category": "Core memories",
       "url": "https://store.steampowered.com/app/214170/Divine_Divinity/",
-      "date": null,
+      "date": "2002",
       "dateLabel": "2002 original game; exact regional release date varies by source",
       "description": "First Divine Divinity, not Divinity: Original Sin. Publisher Steam entry lists2002-09-20; historical official Larian video description says March2002, so exact date not normalized.",
       "evidence": "Publisher storefront and Larian video metadata; conflicting exact dates",
       "coreMemory": true,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
-      "originalDate": null
+      "originalDate": "2002"
     },
     {
       "id": "core-warcraft-3",
@@ -1391,13 +1391,13 @@
       "name": "Warcraft III: Reign of Chaos",
       "category": "Core memories",
       "url": "https://news.blizzard.com/en-us/article/22636891/loktar-ogar-warcraft-iii-reforged-announced-at-blizzcon",
-      "date": null,
+      "date": "2002",
       "dateLabel": "2002 original; Reforged remake separate",
       "description": "Blizzard identifies Reign of Chaos as2002 classic and The Frozen Throne as expansion. Current remake is not substituted for original.",
       "evidence": "Official Blizzard retrospective",
       "coreMemory": true,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
-      "originalDate": null
+      "originalDate": "2002"
     },
     {
       "id": "fennah",
@@ -1412,11 +1412,11 @@
       "platforms": [
         {
           "name": "Official books",
-          "url": "https://www.fennahbooks.com/"
+          "url": "https://fennahbooks.com/"
         },
         {
           "name": "Book series order",
-          "url": "https://www.fennahbooks.com/books"
+          "url": "https://fennahbooks.com/books"
         },
         {
           "name": "Lore",
@@ -1617,7 +1617,7 @@
       "id": "core-generals",
       "type": "game",
       "name": "Command & Conquer: Generals",
-      "date": null,
+      "date": "2003-02",
       "dateLabel": "Original February 2003; month precision",
       "url": "https://s204.q4cdn.com/701424631/files/doc_news/2007/10/1/313967.pdf",
       "description": "Original February 2003; month precision",
@@ -1625,13 +1625,13 @@
       "category": "Core games",
       "evidence": "Primary publisher/developer source; selected edition, not complete inventory",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/SNES-and-game-memories.md",
-      "originalDate": null
+      "originalDate": "2003-02"
     },
     {
       "id": "core-generals-zero-hour",
       "type": "game",
       "name": "Command & Conquer: Generals — Zero Hour",
-      "date": null,
+      "date": "2003-09",
       "dateLabel": "Original expansion September 2003; Steam 2024-03-07 is rerelease",
       "url": "https://s204.q4cdn.com/701424631/files/doc_news/2007/10/1/313967.pdf",
       "description": "Original expansion September 2003; Steam 2024-03-07 is rerelease",
@@ -1639,13 +1639,13 @@
       "category": "Core games",
       "evidence": "Primary publisher/developer source; selected edition, not complete inventory",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/SNES-and-game-memories.md",
-      "originalDate": null
+      "originalDate": "2003-09"
     },
     {
       "id": "core-oblivion-original",
       "type": "game",
       "name": "The Elder Scrolls IV: Oblivion",
-      "date": null,
+      "date": "2006",
       "dateLabel": "2006 original; year precision",
       "url": "https://elderscrolls.bethesda.net/en-US/oblivion-remastered",
       "description": "2006 original; year precision",
@@ -1653,7 +1653,7 @@
       "category": "Core games",
       "evidence": "Primary publisher/developer source; selected edition, not complete inventory",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/SNES-and-game-memories.md",
-      "originalDate": null
+      "originalDate": "2006"
     },
     {
       "id": "core-oblivion-remastered",
@@ -1724,6 +1724,81 @@
       "evidence": "Primary publisher/developer source; selected edition, not complete inventory",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/SNES-and-game-memories.md",
       "originalDate": "2014-09-02"
+    },
+    {
+      "id": "core-mass-effect-1",
+      "type": "game",
+      "name": "Mass Effect",
+      "date": "2007-11-20",
+      "dateLabel": "2007-11-20 · North America Xbox 360 original; PC release 2008-05-27 separate",
+      "description": "North America Xbox 360 original; PC release 2008-05-27 separate",
+      "url": "https://news.microsoft.com/source/2007/11/20/gamer-excitement-reaches-galactic-proportions-as-mass-effect-touches-down-today-on-retail-shelves-in-north-america/",
+      "category": "Core games",
+      "series": "Mass Effect",
+      "coreMemory": true,
+      "evidence": "Primary publisher launch announcement",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
+      "originalDate": "2007-11-20"
+    },
+    {
+      "id": "core-mass-effect-2",
+      "type": "game",
+      "name": "Mass Effect 2",
+      "date": "2010-01-26",
+      "dateLabel": "2010-01-26 · North America Xbox 360/PC; Europe 2010-01-29",
+      "description": "North America Xbox 360/PC; Europe 2010-01-29",
+      "url": "https://news.ea.com/press-releases/press-releases-details/2009/BioWare-Announces-Celebrity-Cast-for-Mass-Effect-2--The-First-Blockbuster-of-2010/default.aspx",
+      "category": "Core games",
+      "series": "Mass Effect",
+      "coreMemory": true,
+      "evidence": "Primary publisher launch announcement",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
+      "originalDate": "2010-01-26"
+    },
+    {
+      "id": "core-mass-effect-3",
+      "type": "game",
+      "name": "Mass Effect 3",
+      "date": "2012-03-06",
+      "dateLabel": "2012-03-06 · North America Xbox 360/PS3/PC; Europe 2012-03-09",
+      "description": "North America Xbox 360/PS3/PC; Europe 2012-03-09",
+      "url": "https://ir.ea.com/press-releases/press-release-details/2012/Mass-Effect-3-Begins-an-All-Out-Invasion-on-Retailers-across-the-Galaxy/default.aspx",
+      "category": "Core games",
+      "series": "Mass Effect",
+      "coreMemory": true,
+      "evidence": "Primary publisher launch announcement",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
+      "originalDate": "2012-03-06"
+    },
+    {
+      "id": "core-mass-effect-andromeda",
+      "type": "game",
+      "name": "Mass Effect: Andromeda",
+      "date": "2017-03-21",
+      "dateLabel": "2017-03-21 · North America; Europe 2017-03-23; separate from Legendary Edition",
+      "description": "North America; Europe 2017-03-23; separate from Legendary Edition",
+      "url": "https://news.ea.com/press-releases/press-releases-details/2017/Fight-for-a-New-Home-in-Mass-Effect-Andromeda/default.aspx",
+      "category": "Core games",
+      "series": "Mass Effect",
+      "coreMemory": true,
+      "evidence": "Primary publisher launch announcement",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
+      "originalDate": "2017-03-21"
+    },
+    {
+      "id": "core-mass-effect-legendary",
+      "type": "game",
+      "name": "Mass Effect Legendary Edition",
+      "date": "2021-05-14",
+      "dateLabel": "2021-05-14 · Remastered collection of trilogy single-player content; not all franchise games/modes",
+      "description": "Remastered collection of trilogy single-player content; not all franchise games/modes",
+      "url": "https://news.ea.com/press-releases/press-releases-details/2021/Save-the-Galaxy-in-the-Epic-Saga-of-Commander-Shepard-With-Mass-Effect-Legendary-Edition-Today/",
+      "category": "Core games",
+      "series": "Mass Effect",
+      "coreMemory": true,
+      "evidence": "Primary publisher launch announcement",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
+      "originalDate": "2021-05-14"
     }
   ]
 }
