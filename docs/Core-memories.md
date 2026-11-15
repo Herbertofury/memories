@@ -33,21 +33,21 @@ Nintendo official Zelda hub. Distinct from Zelda Milk fan parody.
 ## Divine Divinity
 [Official destination](https://store.steampowered.com/app/214170/Divine_Divinity/)
 
-First Divine Divinity, not Divinity: Original Sin. Publisher Steam entry lists2002-09-20; historical official Larian video description says March2002, so exact date not normalized.
+First Divine Divinity, not Divinity: Original Sin. Publisher Steam entry lists 2002-09-20; historical official Larian video description says March 2002, so exact date not normalized.
 
 **Date:** 2002 original game; exact regional release date varies by source. **Evidence:** Publisher storefront and Larian video metadata; conflicting exact dates.
 
 ## Warcraft III: Reign of Chaos
 [Official destination](https://news.blizzard.com/en-us/article/22636891/loktar-ogar-warcraft-iii-reforged-announced-at-blizzcon)
 
-Blizzard identifies Reign of Chaos as2002 classic and The Frozen Throne as expansion. Current remake is not substituted for original.
+Blizzard identifies Reign of Chaos as 2002 classic and The Frozen Throne as expansion. Current remake is not substituted for original.
 
 **Date:** 2002 original; Reforged remake separate. **Evidence:** Official Blizzard retrospective.
 
 ## FENNAH
 [Official destination](https://www.youtube.com/channel/UCr9j_dJok0QhWNcLOM1uayg)
 
-Sam Fennah; Satellite City, AMYGDALA and The August Few. Official lore site carries18+ notice.
+Sam Fennah; Satellite City, AMYGDALA and The August Few. Official lore site carries 18+ notice.
 
 **Date:** Creator. **Evidence:** Official merchandise site cross-link.
 
@@ -56,25 +56,25 @@ Sam Fennah; Satellite City, AMYGDALA and The August Few. Official lore site carr
 
 Official FENNAH animation. Music: Bernadette by IAMX. Older indexed title: Bernadette - AMYGDALA animated.
 
-**Date:** Official upload2023-12-23 (page date). **Evidence:** Verified creator's indexed video metadata; playback untested.
+**Date:** Official upload 2023-12-23 (page date). **Evidence:** Verified creator's indexed video metadata; playback untested.
 
 ## FENNAH platforms and selected official videos
 - [Official YouTube channel](https://www.youtube.com/channel/UCr9j_dJok0QhWNcLOM1uayg), cross-linked by the official merchandise store.
 - [Official store](https://fennah-shop.fourthwall.com/), which links [Discord](https://discord.gg/bqsFaAzm5w). Invite displayed, not joined.
-- [Official lore site](https://sfennah.wixsite.com/satellitelore): Satellite City / The August Few;18+ content notice.
-- [Bernadette](https://www.youtube.com/watch?v=RVrX7xZkFqI): title, creator and2023-12-23 page date verified. Watch metadata timestamp2023-12-23T16:07:21-08:00 corresponds to2023-12-24 UTC; these are not conflicting premieres.
+- [Official lore site](https://sfennah.wixsite.com/satellitelore): Satellite City / The August Few; 18+ content notice.
+- [Bernadette](https://www.youtube.com/watch?v=RVrX7xZkFqI): title, creator and 2023-12-23 page date verified. Watch metadata timestamp 2023-12-23T16:07:21-08:00 corresponds to 2023-12-24 UTC; these are not conflicting premieres.
 - [Satellite City: The Quest For More Money](https://www.youtube.com/watch?v=S7FtKSMlZco): linked by official store; exact date and playback unverified.
 
 ## Additional official franchise routes
-- Sonic's SEGA hub links [Japanese official YouTube](https://www.youtube.com/@SONICMOVIECHANNEL) and [Memories and Beyond](https://www.youtube.com/watch?v=G9OxfjRxsJM). The hub lists the latter on2026-11-13; that is a hub publication date, not independently verified upload timestamp.
-- [Larian Divine Divinity trailer](https://www.youtube.com/watch?v=bbPWtF6J01Y) and [historical gameplay video](https://www.youtube.com/watch?v=QQIuZgIG1XI): official indexed metadata; direct fetch failed. The description's March2002 date conflicts with publisher Steam metadata, so original game year only is normalized.
+- Sonic's SEGA hub links [Japanese official YouTube](https://www.youtube.com/@SONICMOVIECHANNEL) and [Memories and Beyond](https://www.youtube.com/watch?v=G9OxfjRxsJM). The hub lists the latter on 2026-11-13; that is a hub publication date, not independently verified upload timestamp.
+- [Larian Divine Divinity trailer](https://www.youtube.com/watch?v=bbPWtF6J01Y) and [historical gameplay video](https://www.youtube.com/watch?v=QQIuZgIG1XI): official indexed metadata; direct fetch failed. The description's March 2002 date conflicts with publisher Steam metadata, so original game year only is normalized.
 
 ## Coverage ledger
 | Scope | Captured | Exhaustive? | Remaining |
 |---|---|---|---|
 | FENNAH platforms | Official store, lore site, channel and linked Discord | No | Other official social links and current cross-link checks |
 | FENNAH videos | Bernadette plus one store-linked Satellite City video | No | Full channel enumeration, pagination, shorts/live/playlist reconciliation |
-| Teen Titans2003 | Official DC series identity and five main characters | No | Authorized episode catalog, release order and territory-specific availability |
+| Teen Titans 2003 | Official DC series identity and five main characters | No | Authorized episode catalog, release order and territory-specific availability |
 | Sonic / Mario / Zelda | Official franchise hubs | No | All relevant official channels, installments, video pagination and character indexing |
 | Divine Divinity / Warcraft III | Original-game identity and primary historical references | No | Official trailers/cinematics and exact original-date reconciliation |
 
