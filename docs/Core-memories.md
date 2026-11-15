@@ -79,3 +79,8 @@ Official FENNAH animation. Music: Bernadette by IAMX. Older indexed title: Berna
 | Divine Divinity / Warcraft III | Original-game identity and primary historical references | No | Official trailers/cinematics and exact original-date reconciliation |
 
 No complete channel pagination was performed. A search index is not an exhaustive channel listing. Deleted/private/unlisted videos cannot be counted as captured from public results. No copyrighted episodes, game assets, music or private platform content are copied here.
+
+## FENNAH official channel cross-links
+The public channel About response additionally exposes [Fennah Books](https://fennahbooks.com/), its [book catalog](https://fennahbooks.com/books), [SamFennah on X/Twitter](https://mobile.twitter.com/SamFennah), and [a second Discord invite](https://discord.gg/HY6MwPwVM9). These are creator-linked destinations; destination pages were not independently inspected and neither invite was joined. Do not assume the two Discord invites identify separate servers or replace one without verification.
+
+The initial Videos-tab public response exposed zero video records to the metadata reader. This is a retrieval limitation, not evidence of an empty channel. Full-video coverage remains incomplete.
