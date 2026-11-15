@@ -32,3 +32,10 @@ The GitHub Pages interface supports creator, series and video browsing, date sor
 
 ## Development
 Static buildless site in `docs/`; catalog in `docs/data.json`. Run `node --test tests/site.test.cjs`. The Pages workflow runs browser smoke tests before deploying. Source evidence is linked on each card; channel identity does not prove every episode or playback availability.
+
+## Core memories and editions
+- [Original shows, franchises, FENNAH and Bernadette](docs/Core-memories.md)
+- [SNES recollection and game editions](docs/SNES-and-game-memories.md)
+- [Mass Effect originals, Andromeda and Legendary Edition](docs/Mass-Effect.md)
+
+The collection distinguishes original publication dates, later uploads, regional releases, remakes, remasters and collections. Month/year precision stays explicit. Source-hosted images are not redistribution licenses. YouTube thumbnails and opt-in players are included for known video links; autoplay is off, and a loaded player is not proof of playback.
