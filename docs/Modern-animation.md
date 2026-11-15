@@ -40,3 +40,10 @@ Some channel pages exposed only limited metadata. [Lackadaisy pilot](https://www
 [UCrCMFZWdjklAWjbvMt18waw](https://www.youtube.com/channel/UCrCMFZWdjklAWjbvMt18waw): identity and series unresolved. Direct fetch was throttled and exact-ID search returned no results. Preserved as requested, not guessed or assumed deleted.
 
 Adult language, violence, sexual humor and horror vary by show. Colorful animation is not evidence of suitability for children.
+
+## Postscript: psychicpebbles and Smiling Friends
+Reviewed 2026-11-15. These are separate creator and series records, not duplicate channels.
+
+- **psychicpebbles:** [creator's Newgrounds profile](https://psychicpebbles.newgrounds.com/) lists original movies including *GET OUT OF MY CAR* and *The Panther Kids*. Profile fetched successfully; playback untested. Search alias Zach Hadel comes from the supplied lead and series credit corroboration below; no debut date is inferred from account creation.
+- **Smiling Friends:** [official Adult Swim episode directory](https://www.adultswim.com/videos/smiling-friends) lists seasons 1–3 and episode titles. The official descriptions name Pim, Charlie, Allan and Glep, used as search annotations. The page marks TV-MA and warns that some episodes require a cable-provider login; links do not promise free access or availability in every region. No playback tested.
+- **Credits:** [Warner Bros. Discovery announcement](https://press.wbd.com/na/media-release/smiling-friends-delivers-happiness-adult-swim-fans-winter?language_content_entity=en) identifies Michael Cusack and Zach Hadel. Search-index excerpt available, direct fetch returned403. [2024 official press release](https://press.wbd.com/ca/media-release/adult-swim-0/adult-swim-surprises-smiling-friends-fans) corroborates co-creator credits. Do not treat the earlier pilot date, regular series premiere, and episode uploads as interchangeable; catalog date remains unverified here.
