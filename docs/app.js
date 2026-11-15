@@ -3,7 +3,7 @@
 const STORAGE_KEY='memories.favorites.v1';
 const PALETTE=['#4e505e','#6c4845','#3f5d60','#5c4d70','#6b6047','#414f70'];
 function safeUrl(value){try{const u=new URL(value,location.href);return ['https:','http:'].includes(u.protocol)?u.href:null}catch{return null}}
-function dateValue(item){const value=item.date;return typeof value==='string'&&/^\d{4}(-\d{2}(-\d{2})?)?$/.test(value)?(value.length===4?value+'-01-01':value.length===7?value+'-01':value):null}
+function dateValue(item){const value=Object.prototype.hasOwnProperty.call(item,'originalDate')?item.originalDate:item.date;return typeof value==='string'&&/^\d{4}(-\d{2}(-\d{2})?)?$/.test(value)?(value.length===4?value+'-01-01':value.length===7?value+'-01':value):null}
 function orderItems(items,sort){return [...items].sort((a,b)=>{if(sort==='name')return a.name.localeCompare(b.name);const da=dateValue(a),db=dateValue(b);if(!da&&!db)return a.name.localeCompare(b.name);if(!da)return 1;if(!db)return -1;return (sort==='newest'?-1:1)*da.localeCompare(db)||a.name.localeCompare(b.name)})}
 function validateFavorites(value){if(!value||value.version!==1||!Array.isArray(value.favorites)||value.favorites.length>10000||!value.favorites.every(x=>typeof x==='string'&&x.length<=200))throw Error('Not a Memories favorites file.');return new Set(value.favorites)}
 function node(tag,className,text){const el=document.createElement(tag);if(className)el.className=className;if(text!==undefined)el.textContent=text;return el}
