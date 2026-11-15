@@ -16,7 +16,7 @@ Reviewed 2026-11-15. Official destinations and selected series, not complete fil
 | Zeurel / Monkey Wrench | [Creator](https://zeurel.newgrounds.com/), [official series collection](https://www.newgrounds.com/series/monkey-wrench) | Monkey Wrench |
 | GLITCH Productions | [Official shows](https://www.glitchprod.com/our-shows) | The Amazing Digital Circus; Murder Drones; Meta Runner; Sunset Paradise; The Gaslight District; Knights of Guinevere; Gameoverse |
 | SpindleHorse / Vivienne Medrano | [Official work](https://spindlehorse.com/pages/our-work), [team](https://spindlehorse.com/pages/our-team) | Helluva Boss and shorts; Hazbin Hotel separately (not all free on YouTube) |
-| Lackadaisy production team / Iron Circus | [Official FAQ](https://www.backerkit.com/c/projects/iron-circus-comics/lackadaisy-bookset-and-plushes/faqs), [YouTube](https://www.youtube.com/LackadaisyComic) | Lackadaisy |
+| Lackadaisy / current GLITCH production; original Iron Circus provenance | [Official FAQ](https://www.backerkit.com/c/projects/iron-circus-comics/lackadaisy-bookset-and-plushes/faqs), [YouTube](https://www.youtube.com/LackadaisyComic) | Lackadaisy |
 | Zeddyzi / Ramshackle team | [Creator hub](https://zeddyzi.carrd.co/), [YouTube](https://www.youtube.com/@Zeddyzi) | Ramshackle; Pine Point side project |
 
 GLITCH's current shows page also lists Lackadaisy. Production history and current distribution/catalog relationships must be tracked separately. This is a curated shortlist, not an objective studio ranking.
@@ -37,7 +37,10 @@ Unknown dates remain unknown. A channel's reupload is not necessarily the origin
 Some channel pages exposed only limited metadata. [Lackadaisy pilot](https://www.youtube.com/watch?v=vffu6FG4YP4) was indexed as official but direct retrieval returned 429; its exact premiere date is not promoted here from secondary-only evidence. Episode-by-episode chronological inventories remain in progress.
 
 ## Additional requested channel
-[UCrCMFZWdjklAWjbvMt18waw](https://www.youtube.com/channel/UCrCMFZWdjklAWjbvMt18waw): identity and series unresolved. Direct fetch was throttled and exact-ID search returned no results. Preserved as requested, not guessed or assumed deleted.
+[DiEM ARCHiVE](https://www.youtube.com/channel/UCrCMFZWdjklAWjbvMt18waw): identity resolved from the official public YouTube channel metadata, matching both title and exact external channel ID. Earlier research fetch throttling is superseded for identity only; series inventory and playback remain unverified.
+
+## Lackadaisy production update
+The official [Last Call upload](https://www.youtube.com/watch?v=BHq4ppmUPsA), dated2025-10-10, states it is now a GLITCH production. Keep the earlier Iron Circus/crowdfunding provenance rather than erasing it. Current official [channel](https://www.youtube.com/channel/UCHpyAufyq1-igTlgA9XjbcQ).
 
 Adult language, violence, sexual humor and horror vary by show. Colorful animation is not evidence of suitability for children.
 
