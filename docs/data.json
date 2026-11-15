@@ -3267,6 +3267,43 @@
       "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-review/",
       "description": "User-selected favorite. Contemporary secondary coverage identifies Capri in Edgerunners 2; direct primary character documentation remains under review. JetSetCraft Edgerunners gang appearance planned, not implemented.",
       "evidence": "GamesRadar series review identifies Capri; official main cast page did not list the character in this review. Secondary source, not official character page. No artwork/model or age assertion imported."
+    },
+    {
+      "id": "core-tokyo-ghoul",
+      "type": "show",
+      "name": "Tokyo Ghoul",
+      "category": "Favorite anime",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite anime",
+      "aliases": [
+        "東京喰種",
+        "東京喰種トーキョーグール"
+      ],
+      "date": "2014",
+      "originalDate": "2014",
+      "dateLabel": "Original TV anime: July–September 2014",
+      "url": "https://en.pierrot.jp/archive/2010/tv10_12.html",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md#favorite-anime",
+      "description": "User-selected favorite anime. Tokyo Ghoul follows Ken Kaneki in a Tokyo shared by humans and ghouls.",
+      "evidence": "Favorite anime explicitly requested by the user on 2026-11-15. Studio Pierrot's official archive verifies the original TV anime and its July–September 2014 broadcast. Official production character page checked 2026-11-15.",
+      "sourceLinks": [
+        {
+          "title": "Tokyo Ghoul: official Studio Pierrot archive",
+          "url": "https://en.pierrot.jp/archive/2010/tv10_12.html",
+          "kind": "official studio",
+          "authority": "Studio Pierrot",
+          "verification": "Primary page read 2026-11-15",
+          "access": "public"
+        },
+        {
+          "title": "Tokyo Ghoul:re: official character directory",
+          "url": "https://www.marv.jp/special/tokyoghoul/chara.html",
+          "kind": "official anime production",
+          "authority": "Marvelous / Tokyo Ghoul:re Production Committee",
+          "verification": "Primary page read 2026-11-15",
+          "access": "public"
+        }
+      ]
     }
   ],
   "updated": "2026-11-15"

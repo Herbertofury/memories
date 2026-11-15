@@ -2,6 +2,18 @@
 
 Captured 2026-11-15. These are requested core entries, not claims of a complete franchise/creator archive. Dates identify their exact meaning; unknown originals remain null.
 
+## Favorite anime
+
+### Tokyo Ghoul
+
+**Preference:** User-selected favorite anime, recorded 2026-11-15.
+
+[Official Studio Pierrot archive](https://en.pierrot.jp/archive/2010/tv10_12.html) · [Official anime character directory](https://www.marv.jp/special/tokyoghoul/chara.html)
+
+Tokyo Ghoul (東京喰種トーキョーグール) follows Ken Kaneki in a Tokyo shared by humans and ghouls. Studio Pierrot's official archive records the original TV anime's initial broadcast as July–September 2014, with 12 episodes.
+
+**Evidence:** Favorite status comes from the user's explicit request. Series identity and original-season broadcast period were checked against the official studio archive on 2026-11-15. The character directory is the official Tokyo Ghoul:re production page.
+
 ## Teen Titans (2003)
 [Official destination](https://www.dc.com/tv/teen-titans-2003-2005)
 
