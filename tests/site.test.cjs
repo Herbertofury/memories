@@ -1,4 +1,4 @@
-const test=require('node:test');const assert=require('node:assert/strict');const {orderItems,validateFavorites,youtubeVideo}=require('../docs/app.js');
+const test=require('node:test');const assert=require('node:assert/strict');const {orderItems,validateFavorites,youtubeVideo,normalizeSourceLinks}=require('../docs/app.js');
 test('dates order unknown last in both directions and retain input',()=>{const items=[{name:'Unknown'},{name:'Older',date:'2005'},{name:'Newer',date:'2023-10-13'}];assert.deepEqual(orderItems(items,'oldest').map(x=>x.name),['Older','Newer','Unknown']);assert.deepEqual(orderItems(items,'newest').map(x=>x.name),['Newer','Older','Unknown']);assert.equal(items[0].name,'Unknown')});
 test('favorites schema rejects malformed data and deduplicates',()=>{assert.equal(validateFavorites({version:1,favorites:['a','a']}).size,1);for(const value of [null,[],{version:2,favorites:[]},{version:1,favorites:[{}]}])assert.throws(()=>validateFavorites(value))});
 test('alphabetical sort',()=>assert.deepEqual(orderItems([{name:'Z'},{name:'A'}],'name').map(x=>x.name),['A','Z']));
@@ -6,3 +6,5 @@ test('alphabetical sort',()=>assert.deepEqual(orderItems([{name:'Z'},{name:'A'}]
 test('later uploads and documented dates never replace unknown originals',()=>{const list=[{name:'Unknown original',originalDate:null,date:'2001',uploadDate:'2002',documentedBy:'2003'},{name:'Known original',originalDate:'2010'}];for(const direction of ['oldest','newest'])assert.equal(orderItems(list,direction)[0].name,'Known original')});
 
 test('YouTube media recognizes exact hosts and chapter times',()=>{assert.deepEqual(youtubeVideo('https://www.youtube.com/watch?v=bKd_2vqPrmU&t=217s'),{id:'bKd_2vqPrmU',start:217});assert.equal(youtubeVideo('https://youtube.com.evil.test/watch?v=bKd_2vqPrmU'),null);assert.equal(youtubeVideo('https://www.youtube.com/@filmcow'),null)});
+
+test('source references reject unsafe and duplicate URLs without changing provenance',()=>{const ref={label:'Fan wiki',url:'https://example.org/wiki',status:'Search-index only; not official'};assert.deepEqual(normalizeSourceLinks([ref,{...ref},null,{title:'bad',url:'javascript:alert(1)'},{title:'bad',url:'https://user:secret@example.org/'},{title:'bad',url:'/relative'},{title:'bad',url:'http://example.org/'}]),[ref]);assert.deepEqual(normalizeSourceLinks(null),[])});
