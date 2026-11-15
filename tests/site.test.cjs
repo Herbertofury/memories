@@ -1,0 +1,4 @@
+const test=require('node:test');const assert=require('node:assert/strict');const {orderItems,validateFavorites}=require('../docs/app.js');
+test('dates order unknown last in both directions and retain input',()=>{const items=[{name:'Unknown'},{name:'Older',date:'2005'},{name:'Newer',date:'2023-10-13'}];assert.deepEqual(orderItems(items,'oldest').map(x=>x.name),['Older','Newer','Unknown']);assert.deepEqual(orderItems(items,'newest').map(x=>x.name),['Newer','Older','Unknown']);assert.equal(items[0].name,'Unknown')});
+test('favorites schema rejects malformed data and deduplicates',()=>{assert.equal(validateFavorites({version:1,favorites:['a','a']}).size,1);for(const value of [null,[],{version:2,favorites:[]},{version:1,favorites:[{}]}])assert.throws(()=>validateFavorites(value))});
+test('alphabetical sort',()=>assert.deepEqual(orderItems([{name:'Z'},{name:'A'}],'name').map(x=>x.name),['A','Z']));
