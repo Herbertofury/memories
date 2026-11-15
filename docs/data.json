@@ -1816,7 +1816,7 @@
         "Datskashi"
       ],
       "url": "https://www.youtube.com/channel/UC6TaW2AiqbfuRuAQT0zZEmA",
-      "description": "Creator of Grinions and Little Laughters; Newgrounds profile links this YouTube channel. Datskashi is a user-supplied search alias pending channel metadata confirmation.",
+      "description": "Creator of Grinions and Little Laughters. Newgrounds links the Skashi YouTube channel shown here. Nightmare March has a separate DatSkashi uploader channel; the channel records are not merged.",
       "platforms": [
         {
           "label": "Newgrounds",
@@ -1833,7 +1833,11 @@
           "url": "https://twitter.com/SkashiArts",
           "name": "X / Twitter"
         }
-      ]
+      ],
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_mVAi8m67oUV1OrM0fW5CdA-_yYqDtcOFitnKuiPeniljc=s900-c-k-c0x00ffffff-no-rj",
+      "imageSource": "https://www.youtube.com/channel/UC6TaW2AiqbfuRuAQT0zZEmA",
+      "channelId": "UC6TaW2AiqbfuRuAQT0zZEmA",
+      "imageRights": "Source-hosted display URL; no redistribution license established"
     },
     {
       "category": "Independent animation",
@@ -1922,19 +1926,30 @@
     {
       "id": "core-skashi-requested-video",
       "type": "video",
-      "name": "Requested Skashi video · identity pending",
+      "name": "Nightmare March",
       "category": "Independent animation",
       "coreMemory": true,
-      "date": null,
-      "originalDate": null,
+      "date": "2019-12-26",
+      "originalDate": "2019-12-26",
       "url": "https://www.youtube.com/watch?v=Zows6t4BV6Q",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
-      "description": "Exact video supplied with the Skashi and Grinions request. Title, channel attribution and original publication date are awaiting verification.",
+      "description": "Animation, music and sound effects credited to DatSkashi. Smiley Cindy voiced by MisuKiyuDub; Warai and Grin voiced by the creator. Uploader channel is distinct from the Newgrounds-linked Skashi channel.",
       "aliases": [
         "Datskashi",
         "Grinions"
       ],
-      "evidence": "User-supplied link; metadata and playback unverified."
+      "evidence": "Public YouTube title, channel, credits and publication metadata verified; actual playback not verified.",
+      "creator": "DatSkashi",
+      "channelId": "UCnpXc9U8dWi-lcbrDwHGCxA",
+      "uploadDate": "2019-12-26",
+      "dateLabel": "2019-12-26 · DatSkashi official upload",
+      "characters": [
+        "Smiley Cindy",
+        "Warai",
+        "Grin"
+      ],
+      "imageUrl": "https://i.ytimg.com/vi/Zows6t4BV6Q/maxresdefault.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=Zows6t4BV6Q"
     },
     {
       "id": "core-purple-grinion",
@@ -1954,6 +1969,25 @@
         "Grinion music"
       ],
       "evidence": "Creator-owned audio page: published 18 February 2025 at 2:20AM EST. Use licensing requires contacting the artist; playback not tested."
+    },
+    {
+      "id": "core-concertina-ballerina",
+      "type": "video",
+      "name": "Concertina Ballerina (Official Video)",
+      "creator": "FENNAH",
+      "channelId": "UCr9j_dJok0QhWNcLOM1uayg",
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": "2026-08-27",
+      "originalDate": "2026-08-27",
+      "uploadDate": "2026-08-27",
+      "dateLabel": "2026-08-27 · official FENNAH upload",
+      "url": "https://www.youtube.com/watch?v=q7d_MQDPJsQ",
+      "imageUrl": "https://i.ytimg.com/vi/q7d_MQDPJsQ/hqdefault.jpg",
+      "imageSource": "https://www.youtube.com/watch?v=q7d_MQDPJsQ",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "description": "User-selected FENNAH inspiration. Music: Concertina Ballerina by Rob & Alan Fennah. The original description links AMYGDALA and WONDERLUST.",
+      "evidence": "Public creator video metadata verified; actual playback not verified."
     }
   ]
 }
