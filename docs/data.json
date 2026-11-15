@@ -3304,6 +3304,30 @@
           "access": "public"
         }
       ]
+    },
+    {
+      "id": "core-juuzou-suzuya",
+      "type": "character",
+      "name": "Juuzou Suzuya",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "creator": "Sui Ishida (original manga); Studio Pierrot (anime adaptation)",
+      "series": "Tokyo Ghoul",
+      "characters": [
+        "Juuzou Suzuya"
+      ],
+      "aliases": [
+        "Jūzō Suzuya",
+        "Juzo Suzuya"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.marv.jp/special/tokyoghoul/chara.html",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md#juuzou-suzuya--tokyo-ghoul",
+      "description": "User-selected favorite character from Tokyo Ghoul and Tokyo Ghoul:re. A distinctive CCG investigator with pale hair, visible red stitches and an unconventional fighting style.",
+      "evidence": "Favorite status explicitly requested by the user on 2026-11-15. Tokyo Ghoul:re official production character directory referenced. No artwork, image or model copied; character debut date not inferred."
     }
   ],
   "updated": "2026-11-15"

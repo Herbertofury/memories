@@ -2,6 +2,14 @@
 
 Source review: 15 November 2026. These entries record user-selected core memories, not ownership of the characters.
 
+## Juuzou Suzuya — Tokyo Ghoul
+
+**User-confirmed favorite character (15 November 2026).** Juuzou (also romanized **Jūzō / Juzo Suzuya**) is a distinctive CCG ghoul investigator in **Tokyo Ghoul** and **Tokyo Ghoul:re**. He is recognizable by his pale hair, red stitches, and unconventional fighting style.
+
+[Tokyo Ghoul:re official character directory](https://www.marv.jp/special/tokyoghoul/chara.html) · [Favorite anime: Tokyo Ghoul](Core-memories.md#favorite-anime)
+
+**Source and rights note:** Original manga by Sui Ishida, anime adaptation by Studio Pierrot. Character favorite status was supplied by the user; no first-appearance date is inferred, and no third-party artwork, models, or other media have been copied.
+
 ## Lucy Lacemaker
 
 **Correct name: Lucy Lacemaker. Creator: Sam Fennah / FENNAH.**
