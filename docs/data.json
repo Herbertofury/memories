@@ -1935,6 +1935,25 @@
         "Grinions"
       ],
       "evidence": "User-supplied link; metadata and playback unverified."
+    },
+    {
+      "id": "core-purple-grinion",
+      "type": "audio",
+      "name": "Purple Grinion",
+      "creator": "Skashi95",
+      "category": "Music memories",
+      "coreMemory": true,
+      "date": "2025-02-18",
+      "originalDate": "2025-02-18",
+      "dateLabel": "2025-02-18 · original Newgrounds audio publication",
+      "url": "https://www.newgrounds.com/audio/listen/1402398",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "description": "Skashi95 track, 2 minutes 28 seconds. Everyone-rated audio; listen on the original Newgrounds page. No media copied.",
+      "aliases": [
+        "Grinions",
+        "Grinion music"
+      ],
+      "evidence": "Creator-owned audio page: published 18 February 2025 at 2:20AM EST. Use licensing requires contacting the artist; playback not tested."
     }
   ]
 }
