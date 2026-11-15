@@ -1799,6 +1799,142 @@
       "evidence": "Primary publisher launch announcement",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Mass-Effect.md",
       "originalDate": "2021-05-14"
+    },
+    {
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original release date not established",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "creator": "Skashi",
+      "evidence": "Creator-owned Newgrounds sources checked 2026-11-15; no exhaustive inventory or playback claim.",
+      "id": "core-skashi",
+      "type": "creator",
+      "name": "Skashi / Skashi95",
+      "aliases": [
+        "Datskashi"
+      ],
+      "url": "https://www.youtube.com/channel/UC6TaW2AiqbfuRuAQT0zZEmA",
+      "description": "Creator of Grinions and Little Laughters; Newgrounds profile links this YouTube channel. Datskashi is a user-supplied search alias pending channel metadata confirmation.",
+      "platforms": [
+        {
+          "label": "Newgrounds",
+          "url": "https://skashi95.newgrounds.com/",
+          "name": "Newgrounds"
+        },
+        {
+          "label": "Patreon",
+          "url": "https://www.patreon.com/Skashi",
+          "name": "Patreon"
+        },
+        {
+          "label": "X / Twitter",
+          "url": "https://twitter.com/SkashiArts",
+          "name": "X / Twitter"
+        }
+      ]
+    },
+    {
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original release date not established",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "creator": "Skashi",
+      "evidence": "Creator-owned Newgrounds sources checked 2026-11-15; no exhaustive inventory or playback claim.",
+      "id": "core-grinions",
+      "type": "series",
+      "name": "Grinions",
+      "url": "https://skashi95.newgrounds.com/news/post/1530400",
+      "characters": [
+        "Warai",
+        "Little Grin",
+        "Smiley Cindy",
+        "Sumairu",
+        "Bitey",
+        "Brood Mother"
+      ],
+      "description": "Creator's horror-fantasy world. Keep Little Laughters choices separate from speculative Tritoria lore; no fixed timeline is asserted."
+    },
+    {
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": "2025-04-24",
+      "originalDate": "2025-04-24",
+      "dateLabel": "Creator article published 24 April 2025, not series premiere",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "creator": "Skashi",
+      "evidence": "Creator-owned Newgrounds sources checked 2026-11-15; no exhaustive inventory or playback claim.",
+      "id": "core-grinion-lore",
+      "type": "series",
+      "name": "Grinion Lore — creator reference",
+      "url": "https://skashi95.newgrounds.com/news/post/1530400",
+      "characters": [
+        "Warai",
+        "Little Grin",
+        "Smiley Cindy",
+        "Sumairu",
+        "Bitey",
+        "Brood Mother"
+      ],
+      "description": "Primary lore reference covering Warai and the named Grinions; marked work in progress by its creator."
+    },
+    {
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": "2025-06-17",
+      "originalDate": "2025-06-17",
+      "dateLabel": "Creator index published 17 June 2025, not track release dates",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "creator": "Skashi",
+      "evidence": "Creator-owned Newgrounds sources checked 2026-11-15; no exhaustive inventory or playback claim.",
+      "id": "core-grinion-music",
+      "type": "series",
+      "name": "Grinion Music Compiled",
+      "url": "https://skashi95.newgrounds.com/news/post/1543005",
+      "description": "Official curated soundtrack links. The index mentions two additional Patreon-only tracks; this catalog does not reproduce or enumerate restricted downloads."
+    },
+    {
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Creator announced demo 20 January 2020; full release not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "creator": "Skashi",
+      "evidence": "https://skashi95.newgrounds.com/news/1 ; demo announcement 2020-01-20, no verified full-release claim.",
+      "id": "core-little-laughters",
+      "type": "game",
+      "name": "Little Laughters",
+      "url": "https://gamejolt.com/games/HAHAHAHAHAHAHA/464026",
+      "description": "Creator's Grinion game, with player-dependent outcomes. Historical demo link comes from the creator's Newgrounds news; not downloaded or tested.",
+      "characters": [
+        "Warai",
+        "Little Grin",
+        "Smiley Cindy",
+        "Sumairu",
+        "Bitey",
+        "Brood Mother"
+      ]
+    },
+    {
+      "id": "core-skashi-requested-video",
+      "type": "video",
+      "name": "Requested Skashi video · identity pending",
+      "category": "Independent animation",
+      "coreMemory": true,
+      "date": null,
+      "originalDate": null,
+      "url": "https://www.youtube.com/watch?v=Zows6t4BV6Q",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Skashi-and-Grinions.md",
+      "description": "Exact video supplied with the Skashi and Grinions request. Title, channel attribution and original publication date are awaiting verification.",
+      "aliases": [
+        "Datskashi",
+        "Grinions"
+      ],
+      "evidence": "User-supplied link; metadata and playback unverified."
     }
   ]
 }
