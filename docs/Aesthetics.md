@@ -58,3 +58,11 @@ These are editorial recommendations based on the public features observed below,
 ## Coverage gaps
 
 The recovered 17-package inventory is verified against public migrated source. Earlier user-message searches did not return matching preference messages in this pass. GameSync Next was inspected at repository overview level, not exhaustively audited. The full personal favorite list therefore remains unconfirmed. Discovery pages were read, but there was no account sign-in, image copying, subscription, full-site crawl or hands-on ranking experiment.
+
+## saveroom: preserve the broader style, not a narrow label
+
+The public [migrated artist catalog](https://github.com/Herbertofury/Athena/blob/main/feature-foundry/source/src/data/artist-worlds-v4.0.1.json) records **saveroom** as a favorite artist, reviewed August 4, 2026. Its PS2/Dreamcast-inspired family description is explicitly a **curator interpretation**, not the artist's own definitive genre or the owner's complete aesthetic preference.
+
+Historical context records the owner's correction that saveroom's style is broader than Dreamcast or Frutiger Aero, with **ethereal CGI** offered as a better exploratory description. The original conversation was not recovered in this review, so this is retained as a historical preference-context summary, not a newly verified quotation. **Silicon Dreams, retro CGI and Bryce3D** are later research/search descriptors, not independently confirmed personal favorites, creator-endorsed labels or evidence of which software made a particular work. Do not collapse all of these terms into aliases or freeze an old theme package as authority.
+
+The migrated provenance links [TikTok](https://www.tiktok.com/@saveroomlofi?lang=en), [Spotify](https://open.spotify.com/artist/3HU6PVCUQFeAUbnFgMQPz8), [Bandcamp](https://saveroomlofi.bandcamp.com/), [SoundCloud](https://soundcloud.com/saveroomlofi) and [Apple Music](https://music.apple.com/us/artist/saveroom/1720344723). These are recovered source links with historical provenance, not a claim that every profile or current release was revalidated today. No reference screenshots or audio are reproduced; the catalog's reference-only rights boundary remains intact.
