@@ -51,3 +51,9 @@ The source separately credits its X-ray illustration to **Jadeitor** and its two
 The user requested **female and femboy design variants** of **MalO / SCP-1471-A, SCP-682 and SCP-049** for JetSetCraft. These are **noncanonical, user-requested adaptations**, not claims about the original SCP articles. They are design/backlog requests, not completed assets or verified in-game appearances.
 
 Any resulting SCP-derived work needs the applicable source and author attribution and share-alike compliance. Unrelated fan art, costumes, voices and models require their own rights review. This request supplies no permission to copy unverified third-party assets. The canonical favorite-character records stay separate from the design variants.
+
+## Roku — GON: God Of Nothing
+
+User-selected favorite character. The [official Steam product page](https://store.steampowered.com/app/4901260/) identifies **Roku** as the central deity/monster in **GON: God Of Nothing**, developed and published by **BlackBoneGames**. The store lists **29 August 2026** as the game's release date, not necessarily the character's first appearance.
+
+The game-level developer credit does not establish the artist of every third-party model. No character, model, texture or redistribution license was found in the reviewed product metadata. A user-supplied model reference is tracked separately in [Model references](Model-references.md), with provenance and reuse unresolved. No imagery or game files were imported.
