@@ -27,3 +27,13 @@ This adapted SCP description is licensed under [Creative Commons Attribution-Sha
 The article's licensing box credits its text to **LurkD**. Its separate image entry credits **Tanagryph** (source account URL spelled **tarangryph**) for SCP1471.jpg and records CC-BY-SA; it also credits the mask to **Clockwork Creature**. Those are distinct credits, not a single general permission covering every MalO illustration. No SCP photo, costume image, fan art or user attachment is imported in this pass.
 
 For derivatives, consult the primary [SCP licensing guide](https://scp-wiki.wikidot.com/licensing-guide), including attribution and share-alike requirements. Any future image use needs the particular image's provenance and terms checked separately.
+
+## SCP-682
+
+**Source: [SCP-682](https://scp-wiki.wikidot.com/scp-682), by Dr Gears and Epic Phail Spy, SCP Wiki.**
+
+User-selected favorite character, also known as the Hard-to-Destroy Reptile. The fictional entity is intelligent and reptile-like, with exceptional regeneration and adaptation. Its original publication date remains unverified here; the displayed page revision date is not a debut date.
+
+This adapted SCP-682 description is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), attributed to both authors and the linked SCP Wiki article.
+
+The article separately credits its current image to **OccultistMave** under CC BY-SA 3.0, derived from **Paxson Woelber**'s beached-humpback-whale photograph under CC BY 2.0. Its audio is credited to **thattallfellow** under CC BY-SA 3.0. No image, photograph, recording or fan model was imported. These credits do not authorize unrelated SCP-682 artwork or assets.
