@@ -39,3 +39,5 @@ Static buildless site in `docs/`; catalog in `docs/data.json`. Run `node --test 
 - [Mass Effect originals, Andromeda and Legendary Edition](docs/Mass-Effect.md)
 
 The collection distinguishes original publication dates, later uploads, regional releases, remakes, remasters and collections. Month/year precision stays explicit. Source-hosted images are not redistribution licenses. YouTube thumbnails and opt-in players are included for known video links; autoplay is off, and a loaded player is not proof of playback.
+
+- [Skashi, Grinions, Little Laughters and creator soundtrack references](docs/Skashi-and-Grinions.md)
