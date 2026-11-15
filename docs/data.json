@@ -1988,6 +1988,153 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
       "description": "User-selected FENNAH inspiration. Music: Concertina Ballerina by Rob & Alan Fennah. The original description links AMYGDALA and WONDERLUST.",
       "evidence": "Public creator video metadata verified; actual playback not verified."
+    },
+    {
+      "id": "core-lucy-lacemaker",
+      "type": "character",
+      "name": "Lucy Lacemaker",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Sam Fennah / FENNAH",
+      "series": "Satellite City / The August Few",
+      "characters": [
+        "Lucy Lacemaker"
+      ],
+      "aliases": [
+        "Lucy"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "First appearance not verified",
+      "url": "https://fennah.gumroad.com/l/SCLacemaker",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "description": "User-selected favorite character. FENNAH identifies Lucy's original Satellite City model and newer The August Few version; their continuities and models should not be conflated.",
+      "evidence": "Creator Gumroad listing and official Lucy Lacemaker DANCE! video NTiwU0Gqev4, published 2021-05-03. Checked 2026-11-15. No model, artwork or attachment redistribution rights assumed."
+    },
+    {
+      "id": "core-malo",
+      "type": "character",
+      "name": "MalO / SCP-1471-A",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "LurkD / SCP Wiki",
+      "series": "SCP Foundation",
+      "characters": [
+        "SCP-1471-A"
+      ],
+      "aliases": [
+        "MalO",
+        "Malo",
+        "SCP 1471 A"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original article date not verified",
+      "url": "https://scp-wiki.wikidot.com/scp-1471",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "description": "User-selected favorite character. The SCP entry distinguishes the MalO application (SCP-1471) from its depicted figure (SCP-1471-A).",
+      "evidence": "Based on SCP-1471 by LurkD, SCP Wiki, https://scp-wiki.wikidot.com/scp-1471 . This adapted SCP description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Text and image credits reviewed separately 2026-11-15; no image imported."
+    },
+    {
+      "category": "Games & worlds",
+      "coreMemory": true,
+      "creator": "SEGA",
+      "series": "Jet Set Radio",
+      "characters": [
+        "Beat",
+        "Gum"
+      ],
+      "evidence": "Official SEGA/PlayStation sources reviewed 2026-11-15; regional dates and versions distinguished.",
+      "id": "core-jet-set-radio",
+      "type": "franchise",
+      "name": "Jet Set Radio series",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Series began in 2000",
+      "url": "https://www.sega.jp/topics/detail/231208_1/",
+      "description": "User-selected core series. Original Dreamcast game, Future and HD rerelease are separate entries; no complete franchise inventory claimed."
+    },
+    {
+      "category": "Games & worlds",
+      "coreMemory": true,
+      "creator": "SEGA",
+      "series": "Jet Set Radio",
+      "characters": [
+        "Beat",
+        "Gum"
+      ],
+      "evidence": "Official SEGA/PlayStation sources reviewed 2026-11-15; regional dates and versions distinguished.",
+      "id": "core-jet-set-radio-dreamcast",
+      "type": "game",
+      "name": "Jet Set Radio — Dreamcast original",
+      "aliases": [
+        "Jet Grind Radio"
+      ],
+      "date": "2000",
+      "originalDate": "2000",
+      "dateLabel": "2000 original; exact regional launch dates not primary-verified in this pass",
+      "url": "https://www.sega.jp/topics/detail/210805_2/",
+      "description": "Original Dreamcast release, not the later HD port."
+    },
+    {
+      "category": "Games & worlds",
+      "coreMemory": true,
+      "creator": "SEGA",
+      "series": "Jet Set Radio",
+      "characters": [
+        "Beat",
+        "Gum"
+      ],
+      "evidence": "Official SEGA/PlayStation sources reviewed 2026-11-15; regional dates and versions distinguished.",
+      "id": "core-jet-set-radio-future",
+      "type": "game",
+      "name": "Jet Set Radio Future",
+      "aliases": [
+        "JSRF"
+      ],
+      "date": "2002-02-22",
+      "originalDate": "2002-02-22",
+      "dateLabel": "Japan Xbox release, 22 February 2002",
+      "url": "https://www.sega.jp/game/find/?page=44",
+      "description": "Xbox entry; SEGA's Japanese catalog supplies the regional release date."
+    },
+    {
+      "category": "Games & worlds",
+      "coreMemory": true,
+      "creator": "SEGA",
+      "series": "Jet Set Radio",
+      "characters": [
+        "Beat",
+        "Gum"
+      ],
+      "evidence": "https://blog.playstation.com/2012/09/18/playstation-store-update-257/ ; https://www.sega.jp/game/xbox360/ ; https://support.sega.com/hc/en-us/articles/29776767664145-SEGA-CLASSICS",
+      "id": "core-jet-set-radio-hd",
+      "type": "game",
+      "name": "Jet Set Radio — HD rerelease",
+      "date": "2012-09-18",
+      "originalDate": "2012-09-18",
+      "dateLabel": "North American PSN general release; Japan release 20 February 2013",
+      "url": "https://dc.sega.jp/game_jsr.html",
+      "description": "HD port based on De La Jet Set Radio, not a new story installment. Historical release does not imply current storefront purchase availability."
+    },
+    {
+      "category": "Games & worlds",
+      "coreMemory": false,
+      "creator": "SEGA",
+      "series": "Jet Set Radio",
+      "characters": [
+        "Beat",
+        "Gum"
+      ],
+      "evidence": "Official SEGA/PlayStation sources reviewed 2026-11-15; regional dates and versions distinguished.",
+      "id": "jet-set-radio-new-project",
+      "type": "game",
+      "name": "Jet Set Radio — announced new project",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Announced 8 December 2023; no release date verified",
+      "url": "https://www.sega.jp/topics/detail/231211_3/",
+      "description": "Historical official new-project announcement, not a released-game claim. Exact title, release timing and platforms remain unverified in this catalog."
     }
   ]
 }
