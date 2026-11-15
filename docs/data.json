@@ -387,7 +387,12 @@
       "url": "https://www.smashbits.net/",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Classic-creators.md",
       "evidence": "primary source; playback untested",
-      "originalDate": null
+      "originalDate": null,
+      "imageUrl": "https://yt3.googleusercontent.com/NSiM7cWbuaq8kZNa0cNUNP40u2ZqMcgZscTa-z0Y8jAvlSS7Ma1CZXOkL_Qyb9dleR7MDrvnBuM=s900-c-k-c0x00ffffff-no-rj",
+      "imageSource": "https://www.youtube.com/smashbits",
+      "imageIdentitySource": "https://www.smashbits.net/",
+      "imageRights": "Source-hosted display URL; no redistribution license established",
+      "channelId": "UC4_FwMP_wlOYb8yvZkdKJeA"
     },
     {
       "id": "classic-20",
@@ -822,7 +827,12 @@
       "url": "https://www.backerkit.com/c/projects/iron-circus-comics/lackadaisy-bookset-and-plushes/faqs",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "evidence": "Primary-source destinations; selected works, not complete filmography. Playback untested.",
-      "originalDate": null
+      "originalDate": null,
+      "imageUrl": "https://yt3.googleusercontent.com/gnnOZiFQZVJ9_IKRjBulgBPoLiK8suJcpTtGn5fC3tb12poamCZzp92q3nZV3ZwgvLN_9uRwFHw=s900-c-k-c0x00ffffff-no-rj",
+      "imageSource": "https://www.youtube.com/channel/UCHpyAufyq1-igTlgA9XjbcQ",
+      "imageIdentitySource": "https://www.youtube.com/channel/UCHpyAufyq1-igTlgA9XjbcQ",
+      "imageRights": "Source-hosted display URL; no redistribution license established",
+      "channelId": "UCHpyAufyq1-igTlgA9XjbcQ"
     },
     {
       "id": "modern-zeddyzi-ramshackle-team",
@@ -1256,7 +1266,12 @@
         "Zach Hadel"
       ],
       "evidence": "Creator profile inspected; debut chronology and playback untested.",
-      "originalDate": null
+      "originalDate": null,
+      "imageUrl": "https://yt3.googleusercontent.com/ytc/AIdro_nHNK3dljJf0qKj3UAz_FiVuxsFgkjlLU63E1PUrXQ8oe0=s900-c-k-c0x00ffffff-no-rj",
+      "imageSource": "https://youtube.com/psychicpebbles",
+      "imageIdentitySource": "https://linktr.ee/psychicpebble",
+      "imageRights": "Source-hosted display URL; no redistribution license established",
+      "channelId": "UC--BMyA2X4a9PGAo3lTuopg"
     },
     {
       "id": "smiling-friends",
@@ -1279,6 +1294,162 @@
       "description": "Adult Swim comedy with an official season-by-season episode directory. TV-MA; some episodes require a cable-provider login.",
       "evidence": "Official directory and character descriptions inspected. Release chronology and playback unverified.",
       "originalDate": null
+    },
+    {
+      "id": "core-teen-titans-2003",
+      "type": "show",
+      "name": "Teen Titans (2003)",
+      "category": "Core memories",
+      "url": "https://www.dc.com/tv/teen-titans-2003-2005",
+      "date": null,
+      "dateLabel": "2003 series; not Teen Titans Go!",
+      "description": "Original animated series. DC identifies Robin, Beast Boy, Cyborg, Raven and Starfire.",
+      "characters": [
+        "Robin",
+        "Beast Boy",
+        "Cyborg",
+        "Raven",
+        "Starfire"
+      ],
+      "aliases": [
+        "Teen Titans original"
+      ],
+      "evidence": "Official DC series page; episode inventory incomplete",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "core-sonic",
+      "type": "franchise",
+      "name": "Sonic the Hedgehog",
+      "category": "Core memories",
+      "url": "https://sonic.sega.jp/SonicChannel/",
+      "date": null,
+      "dateLabel": "Franchise; no specific installment assumed",
+      "description": "SEGA official Sonic Channel. Games, animation and character references are separate from fan parodies.",
+      "characters": [
+        "Sonic"
+      ],
+      "evidence": "Official SEGA hub",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "core-mario",
+      "type": "franchise",
+      "name": "Mario",
+      "category": "Core memories",
+      "url": "https://mario.nintendo.com/",
+      "date": null,
+      "dateLabel": "Franchise; no specific installment assumed",
+      "description": "Nintendo official Super Mario home. Exact favorite game not specified.",
+      "characters": [
+        "Mario"
+      ],
+      "evidence": "Official Nintendo search metadata; direct fetch502",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "core-zelda",
+      "type": "franchise",
+      "name": "The Legend of Zelda",
+      "category": "Core memories",
+      "url": "https://www.nintendo.com/us/explore/characters/zelda/",
+      "date": null,
+      "dateLabel": "Franchise; no specific installment assumed",
+      "description": "Nintendo official Zelda hub. Distinct from Zelda Milk fan parody.",
+      "characters": [
+        "Link",
+        "Zelda"
+      ],
+      "evidence": "Official Nintendo hub",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "core-divine-divinity",
+      "type": "game",
+      "name": "Divine Divinity",
+      "category": "Core memories",
+      "url": "https://store.steampowered.com/app/214170/Divine_Divinity/",
+      "date": null,
+      "dateLabel": "2002 original game; exact regional release date varies by source",
+      "description": "First Divine Divinity, not Divinity: Original Sin. Publisher Steam entry lists2002-09-20; historical official Larian video description says March2002, so exact date not normalized.",
+      "evidence": "Publisher storefront and Larian video metadata; conflicting exact dates",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "core-warcraft-3",
+      "type": "game",
+      "name": "Warcraft III: Reign of Chaos",
+      "category": "Core memories",
+      "url": "https://news.blizzard.com/en-us/article/22636891/loktar-ogar-warcraft-iii-reforged-announced-at-blizzcon",
+      "date": null,
+      "dateLabel": "2002 original; Reforged remake separate",
+      "description": "Blizzard identifies Reign of Chaos as2002 classic and The Frozen Throne as expansion. Current remake is not substituted for original.",
+      "evidence": "Official Blizzard retrospective",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null
+    },
+    {
+      "id": "fennah",
+      "type": "creator",
+      "name": "FENNAH",
+      "category": "Independent animation",
+      "url": "https://www.youtube.com/channel/UCr9j_dJok0QhWNcLOM1uayg",
+      "date": null,
+      "dateLabel": "Creator",
+      "description": "Sam Fennah; Satellite City, AMYGDALA and The August Few. Official lore site carries18+ notice.",
+      "evidence": "Official merchandise site cross-link",
+      "platforms": [
+        {
+          "name": "Lore",
+          "url": "https://sfennah.wixsite.com/satellitelore"
+        },
+        {
+          "name": "Official store",
+          "url": "https://fennah-shop.fourthwall.com/"
+        },
+        {
+          "name": "Discord",
+          "url": "https://discord.gg/bqsFaAzm5w"
+        }
+      ],
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": null,
+      "imageUrl": "https://yt3.googleusercontent.com/AXdnKWOXUmDbqsSfktdy3H_GErHrR3UvwDRQUWNXNNfmdY-XbO2laJmr59meTzHHm2r0WNOixA=s900-c-k-c0x00ffffff-no-rj",
+      "imageSource": "https://www.youtube.com/channel/UCr9j_dJok0QhWNcLOM1uayg",
+      "imageIdentitySource": "https://www.youtube.com/watch?v=RVrX7xZkFqI",
+      "imageRights": "Source-hosted display URL; no redistribution license established",
+      "channelId": "UCr9j_dJok0QhWNcLOM1uayg"
+    },
+    {
+      "id": "video-bernadette-fennah",
+      "type": "video",
+      "name": "Bernadette | Animated Short",
+      "category": "Independent animation",
+      "url": "https://www.youtube.com/watch?v=RVrX7xZkFqI",
+      "date": "2023-12-23",
+      "dateLabel": "Official upload2023-12-23 (page date)",
+      "creator": "FENNAH",
+      "series": "AMYGDALA",
+      "description": "Official FENNAH animation. Music: Bernadette by IAMX. Older indexed title: Bernadette - AMYGDALA animated.",
+      "aliases": [
+        "Bernadette - AMYGDALA animated"
+      ],
+      "evidence": "Verified creator's indexed video metadata; playback untested",
+      "coreMemory": true,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
+      "originalDate": "2023-12-23"
     }
   ]
 }
