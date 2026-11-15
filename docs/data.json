@@ -985,6 +985,41 @@
       "description": "The official French clip, a core memory. Historical video year and modern upload date are distinct.",
       "evidence": "Lio Officiel upload 2021-02-23; description dates the video to 1979. Playback untested.",
       "coreMemory": true
+    },
+    {
+      "id": "psychicpebbles",
+      "type": "creator",
+      "name": "psychicpebbles / Zach Hadel",
+      "category": "Adult parody",
+      "date": null,
+      "url": "https://psychicpebbles.newgrounds.com/",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
+      "description": "Newgrounds animation including GET OUT OF MY CAR and The Panther Kids. Related series: Smiling Friends.",
+      "aliases": [
+        "Zach Hadel"
+      ],
+      "evidence": "Creator profile inspected; debut chronology and playback untested."
+    },
+    {
+      "id": "smiling-friends",
+      "type": "series",
+      "name": "Smiling Friends",
+      "category": "Modern animation",
+      "date": null,
+      "url": "https://www.adultswim.com/videos/smiling-friends",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
+      "creator": "Michael Cusack / Zach Hadel",
+      "characters": [
+        "Pim",
+        "Charlie",
+        "Allan",
+        "Glep"
+      ],
+      "aliases": [
+        "psychicpebbles"
+      ],
+      "description": "Adult Swim comedy with an official season-by-season episode directory. TV-MA; some episodes require a cable-provider login.",
+      "evidence": "Official directory and character descriptions inspected. Release chronology and playback unverified."
     }
   ]
 }
