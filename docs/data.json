@@ -971,6 +971,20 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/FilmCow.md",
       "description": "Chapter 5 in FilmCow’s official complete-series compilation.",
       "evidence": "Compilation published 2021-12-02; original installment date unverified. Playback untested."
+    },
+    {
+      "id": "lio-banana-split",
+      "type": "video",
+      "name": "Lio — Banana Split (official clip)",
+      "creator": "Lio",
+      "category": "Music memories",
+      "date": "1979",
+      "dateLabel": "1979 video · uploaded 2021",
+      "url": "https://www.youtube.com/watch?v=sJZ1G0e5bWU",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Music.md",
+      "description": "The official French clip, a core memory. Historical video year and modern upload date are distinct.",
+      "evidence": "Lio Officiel upload 2021-02-23; description dates the video to 1979. Playback untested.",
+      "coreMemory": true
     }
   ]
 }
