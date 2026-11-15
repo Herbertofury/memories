@@ -19,3 +19,12 @@ Record the original project URL, creator, asset version, capture date and exact 
 For technical acceptance, verify target-format support, topology, UVs, materials, texture dimensions, rig compatibility, animation dependencies and in-game performance. Those checks require an authorized, rights-cleared asset and have **not** been performed on this reference.
 
 When access is unavailable, a creator-provided metadata/terms excerpt can support review; do not infer a permissive license from a downloadable file, fan-made status or a saved bookmark. Preserve unknowns and do not import unverified third-party assets.
+
+## Pending reference 002 — user-associated Roku candidate
+
+- User-supplied project: https://smutba.se/project/28cddf28-acbe-4b4f-8dab-9af05b71fe5a/
+- User associates this reference with **Roku, God of Nothing**. The project title, uploader and actual contents have **not** been independently verified.
+- The same host presented an explicit Anubis bot challenge during this review. This new project was not retried through an alternate route or accessed past the challenge.
+- Original game's developer/publisher: **BlackBoneGames**, per its [official Steam listing](https://store.steampowered.com/app/4901260/). This is **not** proof of the model uploader's identity, permission or license.
+- Reuse status: **not cleared**. License, rig, formats, extraction history, modification and redistribution rights remain unknown.
+- No download, preview copy, image import or implementation was performed.
