@@ -28,3 +28,10 @@ When access is unavailable, a creator-provided metadata/terms excerpt can suppor
 - Original game's developer/publisher: **BlackBoneGames**, per its [official Steam listing](https://store.steampowered.com/app/4901260/). This is **not** proof of the model uploader's identity, permission or license.
 - Reuse status: **not cleared**. License, rig, formats, extraction history, modification and redistribution rights remain unknown.
 - No download, preview copy, image import or implementation was performed.
+
+## Pending reference 003 — Shion, identity unresolved
+
+- User-supplied project: https://smutba.se/project/116fc1dd-d70a-44c9-87b7-dfdfafe05dce/
+- User-supplied name: **Shion**. Exact character, franchise, project title, uploader and license are **unverified**; do not guess from the name.
+- Same-host access challenge remains unresolved. No bypass, alternate-route request, download, preview copy or import was performed.
+- Research interest only; **not cleared** as a base or distributable asset.
