@@ -33,3 +33,13 @@ Primary site, creator-store and public creator-post review support these identit
 For each actual asset, record the creator's preferred credit, original work URL, exact version, asset-specific license/permission source, required wording, modification status and any third-party dependencies. Keep **inspiration/reference** distinct from **included/adapted asset**. Link support pages as optional creator destinations, never as a substitute for required permission.
 
 Unverified model candidates remain in [Model references](Model-references.md). Character-specific provenance is in [Favorite characters](Favorite-characters.md). The rest of the catalog's creator-platform inventory remains unfinished; lack of a listed social account does not mean none exists.
+
+## Exobelos
+
+User-selected favorite author. [Creator hub](https://exobelos.carrd.co/) · [Patreon/support](https://www.patreon.com/cw/Exobelos) · [Newgrounds](https://exobelos.newgrounds.com/) · [X](https://x.com/Exobelos) · [Bluesky](https://bsky.app/profile/exobelos.newgrounds.com) · [FurAffinity](https://www.furaffinity.net/user/exobelos/) · [Tumblr](https://www.tumblr.com/exobelos)
+
+The creator hub directly links these profiles. Its Patreon link redirects to the user-provided destination. The hub, Patreon introduction and Newgrounds profile were readable; X returned no readable content, Bluesky required JavaScript, FurAffinity was restricted and Tumblr returned 406. Linked identity is verified by the creator hub, not by reading every destination.
+
+Public lore scope: the hub separates **Hymerrant** (Rojos and Ptōma) from **Ūterþe** (Siishi, Ixkan, Xenthis and Erros), and cautions that canonical depictions are limited. These are research leads, **not additional user-favorited characters or JetSetCraft selections**.
+
+No private archive, locked post, artwork or paid model was accessed or copied. No general game-adaptation or redistribution permission is established. The creator's separate personal/account context is not expanded here. This is a partial public-source inventory, not a complete archive.
