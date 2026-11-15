@@ -3,7 +3,7 @@
 
 Classic YouTube, Halo machinima, Newgrounds comedy and independent animation, organized by creator, series and watch order.
 
-**[Wiki](https://github.com/Herbertofury/memories/wiki)** · **[GuitarMasterX7](docs/GuitarMasterX7.md)** · **[FilmCow](docs/FilmCow.md)**
+**[Interactive collection](https://herbertofury.github.io/memories/)** · **[Wiki](https://github.com/Herbertofury/memories/wiki)** · **[GuitarMasterX7](docs/GuitarMasterX7.md)** · **[FilmCow](docs/FilmCow.md)**
 
 ## Start watching
 - **Charlie the Unicorn:** [FilmCow's official episodes 1–5 compilation](https://www.youtube.com/watch?v=bKd_2vqPrmU), with [chapter-by-chapter watch order](docs/FilmCow.md).
@@ -22,3 +22,13 @@ Classic YouTube, Halo machinima, Newgrounds comedy and independent animation, or
 Reviewed **2026-11-15**. This is an expanding catalog, not a complete episode archive. The supplied creator list is being reconciled; claimed recent activity is not accepted without primary evidence.
 
 Many linked works contain adult language, dark humor, violence or offensive historical titles.
+
+## Browse the collection
+- [Classic creators](docs/Classic-creators.md)
+- [Modern animation and studios](docs/Modern-animation.md)
+- [Music memories: Lio](docs/Music.md)
+
+The GitHub Pages interface supports creator, series and video browsing, date sorting, character/alias search where annotated, and a separate Core memories collection. Star favorites are stored only in this browser, not synced to an account. Export/import JSON to transfer them manually. Clearing browser data can erase favorites.
+
+## Development
+Static buildless site in `docs/`; catalog in `docs/data.json`. Run `node --test tests/site.test.cjs`. The Pages workflow runs browser smoke tests before deploying. Source evidence is linked on each card; channel identity does not prove every episode or playback availability.
