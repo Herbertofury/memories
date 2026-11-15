@@ -42,3 +42,17 @@ Gaming-sketch discovery leads, grouped by claimed season and episode. **These su
 
 ## Still to reconcile
 BrawlGasm episode inventory, missing Master Chief originals and exact dates, Sanity Not Included original season counts and uploader provenance, and channel rename history. No unavailable video is assumed deleted merely because a fetch failed.
+
+## Original-date audit (2026-11-15)
+The 1–8 sequence above is also listed by the [Halo Machinima community reference](https://halomachinima.fandom.com/wiki/GuitarmasterX7). This improves confidence in **story/episode order**, but supplies no original publication dates and is not creator-confirmed chronology. Keep all eight original-date fields unknown.
+
+| Evidence | Date represented | What it establishes | Confidence |
+|---|---|---|---|
+| [Creator's additional Bungie comment](https://www.bungie.net/tn/Forums/Post/1668878?page=49&sort=0), linking War's exact ID | 2009-10-14 forum posting | War's link was being shared by the creator by this date, not necessarily uploaded that day | High for dated creator citation; original premiere unknown |
+| [Creator's video-list post](https://www.bungie.net/en/Forums/Post/1859114) | Displayed 2009-10-15; edit note 2009-10-14 PDT | Links Graffiti Cleanup Crew, Vengeance, Retard Daycare and War; labels Daycare a reupload | High for link/title attribution and reupload label; no exact original dates |
+| [Contemporaneous forum sharing](https://forum.gothic.org.pl/threads/dowcipy.17157/) | 2009-07-13, post 19 | Earlier dated third-party citation of War's exact video ID | Corroborating secondary evidence only; not an upload timestamp |
+| [Community episode guide](https://halomachinima.fandom.com/wiki/GuitarmasterX7) | No premiere dates | Explicitly numbers Return, Daycare, Pirates, Vengeance, MD, Graffiti, Reload and War as 1–8 | Medium for episode order; insufficient for date order |
+
+**Sort policy:** original publication date, upload date, documented-by date and episode number are independent fields. Never use the forum dates as premiere dates, the list order inside the creator's post as episode order, or a later reupload as the original release. Unknown-date entries belong in an undated group, not assigned an arbitrary year.
+
+**Checks retained:** exact-title and exact-video-ID searches, creator Bungie posts and primary YouTube links were reviewed. YouTube metadata retrieval was throttled; a Wayback retrieval attempt was inaccessible through the research tool. No usable archived original timestamp was recovered. Sanity's supplied season links likewise yielded no authoritative original timestamps. The order is therefore better attributed, but original-date chronology remains unresolved.
