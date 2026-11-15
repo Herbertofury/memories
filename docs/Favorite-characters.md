@@ -37,3 +37,17 @@ User-selected favorite character, also known as the Hard-to-Destroy Reptile. The
 This adapted SCP-682 description is licensed under [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), attributed to both authors and the linked SCP Wiki article.
 
 The article separately credits its current image to **OccultistMave** under CC BY-SA 3.0, derived from **Paxson Woelber**'s beached-humpback-whale photograph under CC BY 2.0. Its audio is credited to **thattallfellow** under CC BY-SA 3.0. No image, photograph, recording or fan model was imported. These credits do not authorize unrelated SCP-682 artwork or assets.
+
+## SCP-049
+
+**Source: [SCP-049](https://scp-wiki.wikidot.com/scp-049), by Gabriel Jade, rewritten by djkaktus and Gabriel Jade, SCP Wiki.**
+
+User-selected favorite character: a fictional entity resembling a plague doctor. Its original article date remains unverified here. This adapted description is [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/), attributed to the authors and linked SCP Wiki entry.
+
+The source separately credits its X-ray illustration to **Jadeitor** and its two current portrait images to **VolgunStrife**, under CC BY-SA 3.0. Its audio credits **Doctor Cimmerian, Taylor_itkin, TheeSherm and VolgunStrife** under that license. No imagery, audio or third-party model was imported.
+
+## User-requested JetSetCraft variants
+
+The user requested **female and femboy design variants** of **MalO / SCP-1471-A, SCP-682 and SCP-049** for JetSetCraft. These are **noncanonical, user-requested adaptations**, not claims about the original SCP articles. They are design/backlog requests, not completed assets or verified in-game appearances.
+
+Any resulting SCP-derived work needs the applicable source and author attribution and share-alike compliance. Unrelated fan art, costumes, voices and models require their own rights review. This request supplies no permission to copy unverified third-party assets. The canonical favorite-character records stay separate from the design variants.
