@@ -57,3 +57,9 @@ Any resulting SCP-derived work needs the applicable source and author attributio
 User-selected favorite character. The [official Steam product page](https://store.steampowered.com/app/4901260/) identifies **Roku** as the central deity/monster in **GON: God Of Nothing**, developed and published by **BlackBoneGames**. The store lists **29 August 2026** as the game's release date, not necessarily the character's first appearance.
 
 The game-level developer credit does not establish the artist of every third-party model. No character, model, texture or redistribution license was found in the reviewed product metadata. A user-supplied model reference is tracked separately in [Model references](Model-references.md), with provenance and reuse unresolved. No imagery or game files were imported.
+
+## Talia Yang — Cyberpunk: Edgerunners 2
+
+User-selected favorite, associated by the user with Cyberpunk 2077. The [official Cyberpunk: Edgerunners 2 site](https://www.cyberpunk.net/en/edgerunners2) verifies **Talia** in the anime's character roster and credits the show to **CD PROJEKT RED and TRIGGER**. This establishes the show association within the Cyberpunk 2077 world, not a claim that she is an original base-game NPC. The surname **Yang** is retained from the user's supplied name; the reviewed official profile heading uses Talia alone.
+
+No premiere date, character age, image license or model permission is inferred. No image or fan model was copied, and no JetSetCraft appearance is claimed complete.
