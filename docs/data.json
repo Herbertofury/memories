@@ -2009,7 +2009,49 @@
       "url": "https://fennah.gumroad.com/l/SCLacemaker",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite character. FENNAH identifies Lucy's original Satellite City model and newer The August Few version; their continuities and models should not be conflated.",
-      "evidence": "Creator Gumroad listing and official Lucy Lacemaker DANCE! video NTiwU0Gqev4, published 2021-05-03. Checked 2026-11-15. No model, artwork or attachment redistribution rights assumed."
+      "evidence": "Creator Gumroad listing and official Lucy Lacemaker DANCE! video NTiwU0Gqev4, published 2021-05-03. Checked 2026-11-15. No model, artwork or attachment redistribution rights assumed.",
+      "artReferences": [
+        {
+          "title": "SC Lucy Lacemaker (2019): official older model",
+          "url": "https://fennah.gumroad.com/l/SCLacemaker",
+          "artist": "Sam Fennah / FENNAH",
+          "license": "Creator retains rights; sold model is personal-use. Separate adaptation permission must be documented.",
+          "revision": "2019 Satellite City model; listing confirms a newer The August Few model, not its release date.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "Mad Hat Vermin: Lucy fan illustration",
+          "url": "https://www.newgrounds.com/art/view/jamescorck/artwork-mad-hat-vermin",
+          "artist": "JamesCorck",
+          "license": "Attribution, noncommercial, share-alike; no unrestricted game-asset permission.",
+          "revision": "Published 2020-08-19; fan interpretation, not official revision.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "Mad Hat Vermin: artist's making-of",
+          "url": "https://awthredestim.tumblr.com/post/626915601743478784/collection-of-wips-for-this-weeks-project",
+          "artist": "JamesCorck",
+          "license": "Linked process reference; separate redistribution terms not established.",
+          "revision": "Work-in-progress sequence linked by the finished artwork; exact WIP date not established.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "Lucy Lacemaker: fan illustration",
+          "url": "https://www.newgrounds.com/art/view/foxifyer/lucy-lacemaker",
+          "artist": "FoxiFyer",
+          "license": "Attribution, noncommercial, no derivatives. Not available for adaptation into game art under those terms.",
+          "revision": "Published 2023-03-20; fan interpretation, not official revision.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        }
+      ]
     },
     {
       "id": "core-malo",
@@ -2033,7 +2075,29 @@
       "url": "https://scp-wiki.wikidot.com/scp-1471",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite character. The SCP entry distinguishes the MalO application (SCP-1471) from its depicted figure (SCP-1471-A).",
-      "evidence": "Based on SCP-1471 by LurkD, SCP Wiki, https://scp-wiki.wikidot.com/scp-1471 . This adapted SCP description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Text and image credits reviewed separately 2026-11-15; no image imported."
+      "evidence": "Based on SCP-1471 by LurkD, SCP Wiki, https://scp-wiki.wikidot.com/scp-1471 . This adapted SCP description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Text and image credits reviewed separately 2026-11-15; no image imported.",
+      "artReferences": [
+        {
+          "title": "SCP-1471: article's original visual reference",
+          "url": "https://scp-wiki.wikidot.com/scp-1471",
+          "artist": "Tanagryph (source account tarangryph); mask by Clockwork Creature; text by LurkD",
+          "license": "Article image credit records CC BY-SA separately; retain both photo and mask credits. Other fan works require separate review.",
+          "revision": "Current article reference; not a verified character revision chronology.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "MalO: SunnyClockwork fan interpretation",
+          "url": "https://scp-wiki.wikidot.com/sunny-art-series-2",
+          "artist": "SunnyClockwork",
+          "license": "Page states CC BY-SA 3.0 unless otherwise noted; exact image visual inspection pending.",
+          "revision": "SCP-1471 section; publication date unknown. Page edit date is not the artwork date.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        }
+      ]
     },
     {
       "category": "Games & worlds",
@@ -2157,7 +2221,29 @@
       "url": "https://scp-wiki.wikidot.com/scp-682",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite. A fictional, intelligent reptile-like entity noted for extraordinary regeneration and adaptation.",
-      "evidence": "Adapted from SCP-682 by Dr Gears and Epic Phail Spy, SCP Wiki, https://scp-wiki.wikidot.com/scp-682 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Image and audio credits are separate; no media imported. Checked 2026-11-15."
+      "evidence": "Adapted from SCP-682 by Dr Gears and Epic Phail Spy, SCP Wiki, https://scp-wiki.wikidot.com/scp-682 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Image and audio credits are separate; no media imported. Checked 2026-11-15.",
+      "artReferences": [
+        {
+          "title": "SCP-682: current article image and credit",
+          "url": "https://scp-wiki.wikidot.com/scp-682",
+          "artist": "OccultistMave; based on Paxson Woelber photograph; text Dr Gears and Epic Phail Spy",
+          "license": "Current derivative image CC BY-SA 3.0; underlying photograph CC BY 2.0. Preserve complete attribution.",
+          "revision": "Current article image; image replacement is not proof of an in-universe design revision.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "SCP-682 breach!: fan illustration",
+          "url": "https://scp-wiki.wikidot.com/art:scp-682-breach",
+          "artist": "littlepeanut",
+          "license": "Image explicitly CC BY-SA 3.0 in license box. Attribution and share-alike required.",
+          "revision": "Artwork date unverified. 2026-03-28 shown as page edit, not original publication.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        }
+      ]
     },
     {
       "id": "core-scp-049",
@@ -2180,7 +2266,29 @@
       "url": "https://scp-wiki.wikidot.com/scp-049",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite: the fictional plague-doctor-like entity from the SCP Wiki. User-requested JetSetCraft variants are separate noncanonical designs, not claims about the original article.",
-      "evidence": "SCP-049 by Gabriel Jade, rewritten by djkaktus & Gabriel Jade: https://scp-wiki.wikidot.com/scp-049 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Checked 2026-11-15. No third-party image or model imported."
+      "evidence": "SCP-049 by Gabriel Jade, rewritten by djkaktus & Gabriel Jade: https://scp-wiki.wikidot.com/scp-049 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Checked 2026-11-15. No third-party image or model imported.",
+      "artReferences": [
+        {
+          "title": "SCP-049: article portraits and X-ray",
+          "url": "https://scp-wiki.wikidot.com/scp-049",
+          "artist": "VolgunStrife (portraits), Jadeitor (X-ray); article Gabriel Jade, rewritten djkaktus and Gabriel Jade",
+          "license": "Specific credited images CC BY-SA 3.0. Attribute actual chosen image and artist.",
+          "revision": "Current rewritten article; do not treat fictional interview dates as artwork dates.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "049 But Logos: graphic reinterpretations",
+          "url": "https://scp-wiki.wikidot.com/art:049-but-logos",
+          "artist": "Dr Hormress; Woedenaz co-credit for Foundation/UIU variants",
+          "license": "Specific images CC BY-SA 3.0; Foundation/UIU variants require both credited artists.",
+          "revision": "Logo reinterpretations, not canonical character redesigns; publication date unverified.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        }
+      ]
     },
     {
       "id": "core-pomni",
@@ -2201,7 +2309,72 @@
       "dateLabel": "Character debut date not independently verified",
       "url": "https://www.glitchprod.com/digital-circus",
       "description": "User-selected favorite from The Amazing Digital Circus, created by Gooseworx and produced by GLITCH. Pomni is a human trapped in its virtual world. A Honkistas appearance in JetSetCraft is requested/planned, not a canonical crossover or playable implementation.",
-      "evidence": "Official GLITCH show page identifies Pomni and credits Gooseworx; checked 2026-11-15. No artwork, models or reuse rights imported."
+      "evidence": "Official GLITCH show page identifies Pomni and credits Gooseworx; checked 2026-11-15. No artwork, models or reuse rights imported.",
+      "artReferences": [
+        {
+          "title": "The Amazing Digital Circus: official visual baseline",
+          "url": "https://www.glitchprod.com/digital-circus",
+          "artist": "Gooseworx / GLITCH Productions",
+          "license": "Official public reference, no general image redistribution or JetSetCraft adaptation permission established.",
+          "revision": "Show debuted October 2023; no verified official design-revision timeline in this pass.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        },
+        {
+          "title": "Pomni: fan illustration",
+          "url": "https://www.newgrounds.com/art/view/bowlerhattom/pomni",
+          "artist": "BowlerHatTom",
+          "license": "No reuse permission offered. Link-only; no copying or game reuse.",
+          "revision": "Published 2026-09-08; fan interpretation, not official revision.",
+          "displayPermitted": false,
+          "imageUrl": null,
+          "reviewStatus": "Source and attribution checked; image not visually inspected or ranked."
+        }
+      ]
+    },
+    {
+      "id": "core-scp-173",
+      "type": "character",
+      "name": "SCP-173",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Moto42 / SCP Wiki",
+      "series": "SCP Foundation",
+      "characters": [
+        "SCP-173"
+      ],
+      "aliases": [
+        "SCP 173"
+      ],
+      "originalDate": null,
+      "date": null,
+      "dateLabel": "Original article date not verified",
+      "url": "https://scp-wiki.wikidot.com/scp-173",
+      "description": "User-selected favorite. A JetSetCraft design with normal human feet is requested; this is a noncanonical proposal, not an implemented asset or an original-article claim.",
+      "evidence": "SCP-173 by Moto42, https://scp-wiki.wikidot.com/scp-173 . Adapted text CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Former Izumi Kato Untitled 2004 sculpture likeness is not covered by the SCP text license. No image copied.",
+      "artReferences": [
+        {
+          "title": "SCP-173: original article and attribution",
+          "url": "https://scp-wiki.wikidot.com/scp-173",
+          "artist": "Moto42 (text)",
+          "license": "CC BY-SA 3.0 text; former Izumi Kato sculpture likeness excluded.",
+          "revision": "Normal human feet is a user-requested noncanonical design proposal.",
+          "reviewStatus": "Primary article checked; no image imported.",
+          "displayPermitted": false,
+          "imageUrl": null
+        },
+        {
+          "title": "User-supplied visual reference (unverified)",
+          "url": "https://e621.net/posts/3816663",
+          "artist": "Unverified",
+          "license": "Unknown; no copying, embedding or reuse permission established.",
+          "revision": "User requested normal human feet; source design not inspected.",
+          "reviewStatus": "Source inaccessible; artist, date and image not verified. External site may contain adult material.",
+          "displayPermitted": false,
+          "imageUrl": null
+        }
+      ]
     }
   ]
 }
