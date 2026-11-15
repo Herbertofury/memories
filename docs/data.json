@@ -2409,6 +2409,865 @@
           "imageUrl": null
         }
       ]
+    },
+    {
+      "id": "model-smutbase-572ec4ce",
+      "type": "model",
+      "name": "User-supplied model reference — metadata unverified",
+      "category": "Model references",
+      "coreMemory": false,
+      "originalDate": null,
+      "date": null,
+      "dateLabel": "Publication date unknown",
+      "url": "https://smutba.se/project/572ec4ce-1fcd-4505-a54e-06022efcc028/",
+      "description": "Candidate source for possible JetSetCraft inspiration or reuse. Adult-content website. The source returned a bot-verification challenge, so title, creator, file format and license remain unknown. No asset was downloaded or imported. Adult-site external reference. No download, access or reuse clearance.",
+      "aliases": [
+        "SmutBase",
+        "JetSetCraft model"
+      ],
+      "evidence": "User supplied this exact project link. Checked 2026-11-15: access blocked by Anubis challenge. Reuse/redistribution not cleared; a listing or download link is not permission.",
+      "modelStatus": "reference-only",
+      "creatorVerified": false,
+      "formatVerified": false,
+      "licenseStatus": "unknown",
+      "reuseStatus": "not-cleared"
+    },
+    {
+      "id": "core-roku",
+      "type": "character",
+      "name": "Roku — GON: God Of Nothing",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "creator": "BlackBoneGames (game developer/publisher)",
+      "series": "GON: God Of Nothing",
+      "characters": [
+        "Roku"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut unknown; game's Steam release 29 August 2026",
+      "url": "https://store.steampowered.com/app/4901260/",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "description": "User-selected favorite. The official game listing identifies Roku; this does not establish third-party model authorship or reuse rights.",
+      "evidence": "Official Steam product metadata checked 2026-11-15. Game developer/publisher BlackBoneGames; no model/image license inferred."
+    },
+    {
+      "id": "model-smutbase-roku",
+      "type": "model",
+      "name": "Roku, God of Nothing — user-supplied model reference",
+      "category": "Model references",
+      "coreMemory": false,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Publication date unknown",
+      "url": "https://smutba.se/project/28cddf28-acbe-4b4f-8dab-9af05b71fe5a/",
+      "description": "Adult-site source reference for possible JetSetCraft inspiration or reuse. User-supplied name; title, uploader, format and license unverified. No download or import. Adult-site external reference. No download, access or reuse clearance.",
+      "evidence": "Host access blocked by prior bot challenge; not retried. Reuse and redistribution not cleared.",
+      "modelStatus": "reference-only",
+      "licenseStatus": "unknown",
+      "reuseStatus": "not-cleared"
+    },
+    {
+      "id": "core-shion",
+      "type": "character",
+      "name": "Shion",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "characters": [
+        "Shion"
+      ],
+      "aliases": [
+        "shion"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Identity and chronology unverified",
+      "url": "https://smutba.se/project/116fc1dd-d70a-44c9-87b7-dfdfafe05dce/",
+      "description": "User-named favorite character; creator, franchise and specific design identity are not independently verified. Planned JetSetCraft appearance only, not implemented.",
+      "evidence": "Name and exact reference link supplied by user. Adult-content host previously returned a bot challenge; not retried or bypassed. Artwork/model rights unknown; no assets imported."
+    },
+    {
+      "id": "model-smutbase-shion",
+      "type": "model",
+      "name": "Shion — user-supplied model reference",
+      "category": "Model references",
+      "coreMemory": false,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Publication date unknown",
+      "url": "https://smutba.se/project/116fc1dd-d70a-44c9-87b7-dfdfafe05dce/",
+      "description": "Adult-site source reference for possible JetSetCraft inspiration or reuse. User-supplied name; title, uploader, format and license unverified. No download or import. Adult-site external reference. No download, access or reuse clearance.",
+      "evidence": "Host access blocked by prior bot challenge; not retried. Reuse and redistribution not cleared.",
+      "modelStatus": "reference-only",
+      "licenseStatus": "unknown",
+      "reuseStatus": "not-cleared"
+    },
+    {
+      "id": "core-talia-yang",
+      "type": "character",
+      "name": "Talia Yang",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "creator": "CD PROJEKT RED / TRIGGER (series)",
+      "series": "Cyberpunk: Edgerunners 2",
+      "characters": [
+        "Talia"
+      ],
+      "aliases": [
+        "Talia Yang"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/edgerunners2",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "description": "User-selected favorite. Official Edgerunners 2 roster verifies Talia; Yang is retained from the user's name. Anime association is verified, not an original Cyberpunk 2077 base-game NPC claim.",
+      "evidence": "Official Cyberpunk.net character profile checked 2026-11-15. No age, asset license or image reuse permission inferred."
+    },
+    {
+      "id": "core-loona",
+      "type": "character",
+      "name": "Loona",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano / SpindleHorse",
+      "series": "Helluva Boss",
+      "characters": [
+        "Loona"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://spindlehorse.com/collections/vinyls-and-figures",
+      "description": "User-selected favorite from Helluva Boss. A JetSetCraft appearance is requested/planned, not implemented. Official character artwork and model reuse rights are not established by merchandise listings.",
+      "evidence": "SpindleHorse lists Helluva Boss x Youtooz Loona; https://youtooz.com/products/loona identifies the character and credits series creator Vivienne Medrano. Checked 2026-11-15. No image/model copied."
+    },
+    {
+      "id": "core-scp-811",
+      "type": "character",
+      "name": "SCP-811 — Aé",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Pig_catapult / SCP Wiki",
+      "series": "SCP Foundation",
+      "characters": [
+        "SCP-811",
+        "Aé"
+      ],
+      "aliases": [
+        "Ae",
+        "SCP 811"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original article date not verified",
+      "url": "https://scp-wiki.wikidot.com/scp-811",
+      "description": "User-selected favorite. Aé is the alias used in the original SCP-811 article. JetSetCraft appearance requested/planned, not implemented; no attribution to Discreet is inferred.",
+      "evidence": "Original SCP-811 by Pig_catapult: https://scp-wiki.wikidot.com/scp-811 . Adapted text CC BY-SA 3.0 https://creativecommons.org/licenses/by-sa/3.0/ . Checked 2026-11-15. No third-party artwork imported."
+    },
+    {
+      "id": "core-beelzebub",
+      "type": "character",
+      "name": "Beelzebub — Queen Bee",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano / SpindleHorse",
+      "series": "Helluva Boss",
+      "characters": [
+        "Beelzebub",
+        "Queen Bee"
+      ],
+      "aliases": [
+        "Bee",
+        "lava lamp wolf"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://youtooz.com/products/beelzebub-plush-9-inch",
+      "description": "User-confirmed favorite from Helluva Boss, identified by her multicolored lava-lamp-like hair. A JetSetCraft appearance is requested/planned, not implemented; no model or artwork reuse permission is implied.",
+      "evidence": "Licensed Youtooz Beelzebub listing identifies Queen Bee and describes lava-lamp hair, four arms and pointed ears, and credits Helluva Boss creator Vivienne Medrano. https://youtooz.com/products/beelzebub-plush-9-inch . Checked 2026-11-15. No image or model copied; listing release is merchandise date, not character debut."
+    },
+    {
+      "id": "core-charlie-morningstar",
+      "type": "character",
+      "name": "Charlie Morningstar",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Charlie Morningstar"
+      ],
+      "aliases": [
+        "Charlie"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Charlie Morningstar: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Charlie_Morningstar",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-vaggie",
+      "type": "character",
+      "name": "Vaggie",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Vaggie"
+      ],
+      "aliases": [
+        "Vaggi"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Vaggie: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Vaggie",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-angel-dust",
+      "type": "character",
+      "name": "Angel Dust",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Angel Dust"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Angel Dust: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Angel_Dust?page=1",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-alastor",
+      "type": "character",
+      "name": "Alastor",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Alastor"
+      ],
+      "aliases": [
+        "Radio Demon"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Alastor: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Alastor",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-husk",
+      "type": "character",
+      "name": "Husk",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Husk"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Husk: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Husk/History",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-sir-pentious",
+      "type": "character",
+      "name": "Sir Pentious",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Sir Pentious"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Sir Pentious: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Sir_Pentious",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-niffty",
+      "type": "character",
+      "name": "Niffty",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "series": "Hazbin Hotel",
+      "characters": [
+        "Niffty"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "description": "User-selected favorite from the supplied seven-name Hazbin Hotel roster. Rare Honkistas appearances in JetSetCraft are requested/planned, not implemented and not Hazbin Hotel canon.",
+      "evidence": "Official Prime Video cast guide verifies Niffty: https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video . Checked 2026-11-15. Supplied image not published; no character art or model copied. Rights review remains separate.",
+      "referenceLinks": [
+        {
+          "label": "Community/fan wiki (spoilers)",
+          "url": "https://hazbinhotel.fandom.com/wiki/Niffty",
+          "status": "Search-index verified; live access unverified"
+        },
+        {
+          "label": "Creator: community encyclopedia",
+          "url": "https://en.wikipedia.org/wiki/Vivienne_Medrano",
+          "status": "Community source, not official"
+        },
+        {
+          "label": "Creator: publisher biography",
+          "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
+          "status": "Publisher source"
+        }
+      ]
+    },
+    {
+      "id": "core-lucy-cyberpunk",
+      "type": "character",
+      "name": "Lucy",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED / TRIGGER",
+      "series": "Cyberpunk: Edgerunners",
+      "characters": [
+        "Lucy"
+      ],
+      "aliases": [
+        "Lucy"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/edgerunners",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-rebecca-cyberpunk",
+      "type": "character",
+      "name": "Rebecca",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED / TRIGGER",
+      "series": "Cyberpunk: Edgerunners",
+      "characters": [
+        "Rebecca"
+      ],
+      "aliases": [
+        "Rebecca"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/edgerunners",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-panam-palmer",
+      "type": "character",
+      "name": "Panam Palmer",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Panam Palmer"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/cosplay-guides",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/cosplay-guides . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-judy-alvarez",
+      "type": "character",
+      "name": "Judy Álvarez",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Judy Álvarez"
+      ],
+      "aliases": [
+        "Judy Alvarez"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/cosplay-guides",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/cosplay-guides . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-alt-cunningham",
+      "type": "character",
+      "name": "Alt Cunningham",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Alt Cunningham"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/cosplay-guides",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/cosplay-guides . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-rogue-amendiares",
+      "type": "character",
+      "name": "Rogue Amendiares",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Rogue Amendiares"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/cosplay-guides",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/cosplay-guides . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-kerry-eurodyne",
+      "type": "character",
+      "name": "Kerry Eurodyne",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Kerry Eurodyne"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/cosplay-guides",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/cosplay-guides . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-johnny-silverhand",
+      "type": "character",
+      "name": "Johnny Silverhand",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED",
+      "series": "Cyberpunk 2077",
+      "characters": [
+        "Johnny Silverhand"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/us/en/cyberpunk-2077",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/us/en/cyberpunk-2077 . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-david-martinez",
+      "type": "character",
+      "name": "David Martinez",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "CD PROJEKT RED / TRIGGER",
+      "series": "Cyberpunk: Edgerunners",
+      "characters": [
+        "David Martinez"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.cyberpunk.net/en/edgerunners",
+      "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+    },
+    {
+      "id": "core-mylar-bezier",
+      "type": "character",
+      "name": "Mylar Bezier",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Discreet (user attribution; independent rights verification pending)",
+      "series": "Discreet character gallery",
+      "characters": [
+        "Mylar Bezier"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.furaffinity.net/journal/10213835/",
+      "description": "User-confirmed favorite associated with Discreet's gallery. Female-only JetSetCraft design requested for this gallery subset; appearance is planned, not implemented. Source access and reuse rights remain unverified.",
+      "evidence": "Identity and creator association supplied explicitly by the user. Fur Affinity gallery access previously blocked by robots; this journal was retained as a user-provided reference, not independently verified and not retried via another route. No artwork/model copied. No reuse license inferred."
+    },
+    {
+      "id": "core-vyper",
+      "type": "character",
+      "name": "Vyper",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Valve",
+      "series": "Deadlock",
+      "characters": [
+        "Vyper"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not independently verified",
+      "url": "https://steamcommunity.com/games/1422450/announcements/detail/786541361952194833",
+      "description": "User-selected Deadlock favorite. Valve's announcement names Vyper; Deadlock remains described by Valve as early development with temporary art and experimental gameplay. JetSetCraft appearance is requested/planned, not implemented. Character designs may change.",
+      "evidence": "Official Deadlock announcement title and linked event discussion name Vyper (Jan 17, 2025 announcement, not asserted debut). https://store.steampowered.com/app/1422450/Deadlock/ identifies Valve as developer/publisher and early-development status. Checked 2026-11-15. No art/model imported.",
+      "referenceLinks": [
+        {
+          "label": "Community wiki",
+          "url": "https://deadlock.wiki/Vyper",
+          "status": "Search-index verified; fan/community source, not Valve"
+        }
+      ]
+    },
+    {
+      "id": "core-sav",
+      "type": "character",
+      "name": "Sav",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "User-selected TikTok reference; creator ownership not independently verified",
+      "series": "Honkistas references",
+      "characters": [
+        "Sav"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.tiktok.com/@ranmaruspov",
+      "description": "Recovered user-selected TikTok favorite/reference for JetSetCraft Honkistas. Planned appearance only; identity/ownership, media playback and asset reuse rights are not independently verified.",
+      "evidence": "Recovered from the user's earlier explicit selections; no private conversation text or account data published. No media copied; no X profile inferred.",
+      "referenceLinks": [
+        {
+          "label": "User-supplied TikTok profile",
+          "url": "https://www.tiktok.com/@ranmaruspov",
+          "status": "User-selected; not independently verified"
+        }
+      ]
+    },
+    {
+      "id": "core-pestrica",
+      "type": "character",
+      "name": "PESTRiCA",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "User-selected TikTok reference; creator ownership not independently verified",
+      "series": "Honkistas references",
+      "characters": [
+        "PESTRiCA"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.tiktok.com/@pestrica.fan.page",
+      "description": "Recovered user-selected TikTok favorite/reference for JetSetCraft Honkistas. Planned appearance only; identity/ownership, media playback and asset reuse rights are not independently verified.",
+      "evidence": "Recovered from the user's earlier explicit selections; no private conversation text or account data published. The linked profile is a fan page, not proof of official creator ownership. No media copied; no X profile inferred.",
+      "referenceLinks": [
+        {
+          "label": "User-supplied fan profile",
+          "url": "https://www.tiktok.com/@pestrica.fan.page",
+          "status": "User-selected; not independently verified"
+        },
+        {
+          "label": "User-selected clip",
+          "url": "https://www.tiktok.com/@pestrica.fan.page/video/7693937868900797710",
+          "status": "Playback and visual identity unverified"
+        }
+      ]
+    },
+    {
+      "id": "core-tay",
+      "type": "character",
+      "name": "Tay",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "User-selected TikTok reference; creator ownership not independently verified",
+      "series": "Honkistas references",
+      "characters": [
+        "Tay"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.tiktok.com/@smeepycats",
+      "description": "Recovered user-selected TikTok favorite/reference for JetSetCraft Honkistas. Planned appearance only; identity/ownership, media playback and asset reuse rights are not independently verified.",
+      "evidence": "Recovered from the user's earlier explicit selections; no private conversation text or account data published. No media copied; no X profile inferred.",
+      "referenceLinks": [
+        {
+          "label": "User-supplied TikTok profile",
+          "url": "https://www.tiktok.com/@smeepycats",
+          "status": "User-selected; not independently verified"
+        }
+      ]
+    },
+    {
+      "id": "core-mennah",
+      "type": "character",
+      "name": "mennah",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "User-selected TikTok reference; creator ownership not independently verified",
+      "series": "Honkistas references",
+      "characters": [
+        "mennah"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.tiktok.com/@smeepycats",
+      "description": "Recovered user-selected TikTok favorite/reference for JetSetCraft Honkistas. Planned appearance only; identity/ownership, media playback and asset reuse rights are not independently verified.",
+      "evidence": "Recovered from the user's earlier explicit selections; no private conversation text or account data published. No media copied; no X profile inferred.",
+      "referenceLinks": [
+        {
+          "label": "User-supplied TikTok profile",
+          "url": "https://www.tiktok.com/@smeepycats",
+          "status": "User-selected; not independently verified"
+        }
+      ]
+    },
+    {
+      "id": "core-plague",
+      "type": "character",
+      "name": "Plague",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "User-selected TikTok reference; creator ownership not independently verified",
+      "series": "Honkistas references",
+      "characters": [
+        "Plague"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original character date unverified",
+      "url": "https://www.tiktok.com/@slimthicccsenpai",
+      "description": "Recovered user-selected TikTok favorite/reference for JetSetCraft Honkistas. Planned appearance only; identity/ownership, media playback and asset reuse rights are not independently verified.",
+      "evidence": "Recovered from the user's earlier explicit selections; no private conversation text or account data published. No media copied; no X profile inferred.",
+      "referenceLinks": [
+        {
+          "label": "User-supplied TikTok profile",
+          "url": "https://www.tiktok.com/@slimthicccsenpai",
+          "status": "User-selected; not independently verified"
+        },
+        {
+          "label": "User-selected clip",
+          "url": "https://www.tiktok.com/@slimthicccsenpai/video/7550674610161863966",
+          "status": "Playback and visual identity unverified"
+        }
+      ]
+    },
+    {
+      "id": "creator-exobelos",
+      "type": "creator",
+      "name": "Exobelos",
+      "category": "Favorite creators",
+      "coreMemory": true,
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Creator debut not verified",
+      "url": "https://www.patreon.com/cw/Exobelos",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "description": "User-selected favorite author. Public creator hub supplies official profile links and separates its story worlds; no character selection or reuse permission inferred.",
+      "evidence": "https://exobelos.carrd.co/ self-links supplied Patreon destination and public social profiles; checked2026-11-15. Restricted destinations and private archive not accessed. Partial inventory.",
+      "platforms": [
+        {
+          "name": "Creator hub",
+          "url": "https://exobelos.carrd.co/"
+        },
+        {
+          "name": "Newgrounds",
+          "url": "https://exobelos.newgrounds.com/"
+        },
+        {
+          "name": "X",
+          "url": "https://x.com/Exobelos"
+        },
+        {
+          "name": "Bluesky",
+          "url": "https://bsky.app/profile/exobelos.newgrounds.com"
+        },
+        {
+          "name": "FurAffinity",
+          "url": "https://www.furaffinity.net/user/exobelos/"
+        },
+        {
+          "name": "Tumblr",
+          "url": "https://www.tumblr.com/exobelos"
+        }
+      ]
+    },
+    {
+      "id": "core-capri",
+      "type": "character",
+      "name": "Capri",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "creator": "CD PROJEKT RED / TRIGGER (series; exact character attribution under review)",
+      "series": "Cyberpunk: Edgerunners 2",
+      "characters": [
+        "Capri"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date unverified",
+      "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-review/",
+      "description": "User-selected favorite. Contemporary secondary coverage identifies Capri in Edgerunners 2; direct primary character documentation remains under review. JetSetCraft Edgerunners gang appearance planned, not implemented.",
+      "evidence": "GamesRadar series review identifies Capri; official main cast page did not list the character in this review. Secondary source, not official character page. No artwork/model or age assertion imported."
     }
-  ]
+  ],
+  "updated": "2026-11-15"
 }
