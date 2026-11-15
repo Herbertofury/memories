@@ -2181,6 +2181,27 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite: the fictional plague-doctor-like entity from the SCP Wiki. User-requested JetSetCraft variants are separate noncanonical designs, not claims about the original article.",
       "evidence": "SCP-049 by Gabriel Jade, rewritten by djkaktus & Gabriel Jade: https://scp-wiki.wikidot.com/scp-049 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Checked 2026-11-15. No third-party image or model imported."
+    },
+    {
+      "id": "core-pomni",
+      "type": "character",
+      "name": "Pomni",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Gooseworx / GLITCH Productions",
+      "series": "The Amazing Digital Circus",
+      "characters": [
+        "Pomni"
+      ],
+      "aliases": [
+        "TADC Pomni"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not independently verified",
+      "url": "https://www.glitchprod.com/digital-circus",
+      "description": "User-selected favorite from The Amazing Digital Circus, created by Gooseworx and produced by GLITCH. Pomni is a human trapped in its virtual world. A Honkistas appearance in JetSetCraft is requested/planned, not a canonical crossover or playable implementation.",
+      "evidence": "Official GLITCH show page identifies Pomni and credits Gooseworx; checked 2026-11-15. No artwork, models or reuse rights imported."
     }
   ]
 }
