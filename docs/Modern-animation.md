@@ -40,7 +40,7 @@ Some channel pages exposed only limited metadata. [Lackadaisy pilot](https://www
 [DiEM ARCHiVE](https://www.youtube.com/channel/UCrCMFZWdjklAWjbvMt18waw): identity resolved from the official public YouTube channel metadata, matching both title and exact external channel ID. Earlier research fetch throttling is superseded for identity only; series inventory and playback remain unverified.
 
 ## Lackadaisy production update
-The official [Last Call upload](https://www.youtube.com/watch?v=BHq4ppmUPsA), dated2025-10-10, states it is now a GLITCH production. Keep the earlier Iron Circus/crowdfunding provenance rather than erasing it. Current official [channel](https://www.youtube.com/channel/UCHpyAufyq1-igTlgA9XjbcQ).
+The official [Last Call upload](https://www.youtube.com/watch?v=BHq4ppmUPsA), dated 2025-10-10, states it is now a GLITCH production. Keep the earlier Iron Circus/crowdfunding provenance rather than erasing it. Current official [channel](https://www.youtube.com/channel/UCHpyAufyq1-igTlgA9XjbcQ).
 
 Adult language, violence, sexual humor and horror vary by show. Colorful animation is not evidence of suitability for children.
 
