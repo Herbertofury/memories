@@ -56,3 +56,17 @@ The 1–8 sequence above is also listed by the [Halo Machinima community referen
 **Sort policy:** original publication date, upload date, documented-by date and episode number are independent fields. Never use the forum dates as premiere dates, the list order inside the creator's post as episode order, or a later reupload as the original release. Unknown-date entries belong in an undated group, not assigned an arbitrary year.
 
 **Checks retained:** exact-title and exact-video-ID searches, creator Bungie posts and primary YouTube links were reviewed. YouTube metadata retrieval was throttled; a Wayback retrieval attempt was inaccessible through the research tool. No usable archived original timestamp was recovered. Sanity's supplied season links likewise yielded no authoritative original timestamps. The order is therefore better attributed, but original-date chronology remains unresolved.
+
+### Sanity: secondary aired-date leads
+[TheTVDB aired-order catalog](https://thetvdb.com/series/sanity-not-included/allseasons/official) supplies the following **secondary catalog dates**, not independently recovered original-upload timestamps. Its URL segment `official` names an ordering scheme; it does not make the source creator-owned. Do not put these in verified original-date fields or assume that the supplied reupload IDs are the same cuts.
+
+| Episode | Catalog title | Secondary aired date | Original timestamp confidence |
+|---|---|---|---|
+| S1 E1 | Pilot | 2010-06-13 | Unverified |
+| S1 E2 | Girl On Xbox Live | 2010-06-20 | Unverified |
+| S2 E1 | Cool New Friends | 2011-02-13 | Unverified |
+| S2 E2 | THE CROWS! | 2011-02-20 | Unverified |
+| S2 E3 | Titanic Time! | 2011-03-01 | Unverified |
+| S3 E1 | Punched a Goose | 2012-11-25 | Unverified |
+
+TheTVDB assigns the same 2012-11-25 date to the first three season-three entries. Preserve that ambiguity rather than inventing a release sequence within that date. An additional fan-wiki retrieval was restricted and was not pursued. Next useful evidence would be an accessible original Machinima/creator description or archived upload record tied to each exact video ID.
