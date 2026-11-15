@@ -2158,6 +2158,29 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite. A fictional, intelligent reptile-like entity noted for extraordinary regeneration and adaptation.",
       "evidence": "Adapted from SCP-682 by Dr Gears and Epic Phail Spy, SCP Wiki, https://scp-wiki.wikidot.com/scp-682 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Image and audio credits are separate; no media imported. Checked 2026-11-15."
+    },
+    {
+      "id": "core-scp-049",
+      "type": "character",
+      "name": "SCP-049",
+      "coreMemory": true,
+      "category": "Favorite characters",
+      "creator": "Gabriel Jade; rewritten by djkaktus & Gabriel Jade / SCP Wiki",
+      "series": "SCP Foundation",
+      "characters": [
+        "SCP-049"
+      ],
+      "aliases": [
+        "Plague Doctor",
+        "SCP 049"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original article date not verified",
+      "url": "https://scp-wiki.wikidot.com/scp-049",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "description": "User-selected favorite: the fictional plague-doctor-like entity from the SCP Wiki. User-requested JetSetCraft variants are separate noncanonical designs, not claims about the original article.",
+      "evidence": "SCP-049 by Gabriel Jade, rewritten by djkaktus & Gabriel Jade: https://scp-wiki.wikidot.com/scp-049 . This adapted description is CC BY-SA 3.0: https://creativecommons.org/licenses/by-sa/3.0/ . Checked 2026-11-15. No third-party image or model imported."
     }
   ]
 }
