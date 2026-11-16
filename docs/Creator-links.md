@@ -64,4 +64,4 @@ The user explicitly selected **Discreet user** as a favorite author on 16 Novemb
 
 ## Automatic discovery boundaries
 
-The build generates a metadata-only research queue from favorite records. It retains source links and unresolved social/lore/character/universe questions; it does not crawl adult galleries, log in, verify ownership from handle similarity, or claim that queued work is researched. Reviewed discoveries must be reconciled with creator-owned evidence before publication. See [research queue](research-queue.json).
+The build generates a metadata-only research queue from favorite records. It retains source links and unresolved social/lore/character/universe questions; it does not crawl adult galleries, log in, verify ownership from handle similarity, or claim that queued work is researched. Reviewed discoveries must be reconciled with creator-owned evidence before publication. See [build-generated research queue](https://herbertofury.github.io/memories/research-queue.json).
