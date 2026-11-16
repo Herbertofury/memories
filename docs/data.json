@@ -3250,6 +3250,34 @@
       ]
     },
     {
+      "id": "creator-bjpentecost",
+      "type": "creator",
+      "name": "bjpentecost",
+      "category": "Favorite creators",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite visual artist",
+      "aliases": [
+        "BJ Pentecost"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Artist debut/date not verified",
+      "url": "https://www.deviantart.com/watch/bjpentecost/deviations",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md#bjpentecost--favorite-visual-artist",
+      "description": "Owner-confirmed favorite visual artist on DeviantArt. Preserve this artist as an explicit personal favorite; specific works, aesthetic labels and project/asset use are not automatically selected.",
+      "evidence": "Favorite status explicitly requested by the owner on 2026-11-15, with the exact DeviantArt Watch link. The account name is taken from the URL. Direct inspection of DeviantArt profile content was restricted (403), so display name, biography, gallery contents and other profiles are not independently confirmed. No artwork copied.",
+      "platforms": [
+        {
+          "name": "DeviantArt Watch link (owner-supplied)",
+          "url": "https://www.deviantart.com/watch/bjpentecost/deviations"
+        },
+        {
+          "name": "DeviantArt profile (derived from handle; content not verified)",
+          "url": "https://www.deviantart.com/bjpentecost"
+        }
+      ]
+    },
+    {
       "id": "core-capri",
       "type": "character",
       "name": "Capri",
