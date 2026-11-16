@@ -69,3 +69,9 @@ The build generates a metadata-only research queue from favorite records. It ret
 ### Serena (Ruaidri)
 
 User-confirmed favorite character, associated with Ruaidri. The creator's [Refs - All Characters](https://www.patreon.com/ruaidri/posts/refs-all-95822388) search-index excerpt names Serena; the indexed [public creator journals](https://www.furaffinity.net/journals/ruaidri/) describe her as a ferret. Checked 16 November 2026. This is indexed creator-source corroboration, not a direct review of reference images or a complete biography. The user's e621 post reference 6163537 was retained as an intake identifier; no adult images, paid references or protected material were copied. A named universe and original debut date remain unverified, so no universe is invented.
+
+### Dominique (Ruaidri) and reference-sheet discovery
+
+User-confirmed favorite Dominique is named in the creator's [Refs - All Characters index](https://www.patreon.com/ruaidri/posts/refs-all-95822388), alongside Serena and Moira. Indexed creator text checked 16 November 2026; no sheet image was opened, copied or cleared for reuse. The user's e621 post identifier 6123875 is an intake reference, not proof of license. Named universe and debut date remain unknown.
+
+These three character cards now link the creator-owned reference index and record **index-only** evidence, unresolved sheet access and unknown redistribution rights. The automatic build-generated research queue now asks for reference sheets for every favorite and preserves candidate provenance. Discovery must establish the exact character/version, creator-owned origin, permitted access and asset-specific rights before any copying or reuse; a source index is not a verified sheet. No reference media is fetched automatically.
