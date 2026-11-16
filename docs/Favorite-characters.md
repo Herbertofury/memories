@@ -105,3 +105,7 @@ User-confirmed favorite from Disney's **Treasure Planet**; the film/universe is 
 ## Jane Porter — Tarzan
 
 User-confirmed favorite from Disney's **Tarzan**; this film adaptation/universe is also a favorite, distinct from other Tarzan adaptations. [Official Disney film page](https://movies.disney.com/tarzan), indexed excerpt checked 16 November 2026, identifies Jane and the film. Full name retained from the user's request; no debut date inferred. No artwork or media copied.
+
+## Nixia — DatKawaiiWolfy
+
+User-selected favorite; creator-authored reference identifies an original slime character with a VRChat representation. No named source universe or debut date is verified. [Identity, original post, component credits and rights](Nixia.md). Metadata and links only; no artwork or model imported.

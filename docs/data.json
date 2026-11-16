@@ -3877,6 +3877,40 @@
           "status": "Primary page read 2026-11-16; publisher source"
         }
       ]
+    },
+    {
+      "id": "core-nixia-datkawaiiwolfy",
+      "type": "character",
+      "name": "Nixia",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "creator": "DatKawaiiWolfy",
+      "characters": [
+        "Nixia"
+      ],
+      "aliases": [
+        "DatKawaiiWolfy"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date unverified",
+      "url": "https://datkawaiiwolfy.carrd.co/",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Nixia.md",
+      "description": "DatKawaiiWolfy’s original slime character, also represented by a customized VRChat avatar. No named source series or universe has been verified.",
+      "evidence": "Creator reference/credits page and original X post checked 2026-11-16. Favorite explicitly requested by user. Post video playback observed; not a complete lore or media inventory. No artwork or models copied; no reuse permission inferred.",
+      "sourceLinks": [
+        {
+          "label": "Creator character reference, terms and component credits",
+          "url": "https://datkawaiiwolfy.carrd.co/",
+          "status": "Primary page read 2026-11-16; original-character identity corroborated"
+        },
+        {
+          "label": "Original Games? post",
+          "url": "https://x.com/DatKawaiiWolfy/status/2122103484308971777",
+          "status": "Primary browser read and video playback observed 2026-11-16; displayed publication 2026-11-15, not character debut"
+        }
+      ]
     }
   ],
   "updated": "2026-11-16"
