@@ -43,3 +43,9 @@ The creator hub directly links these profiles. Its Patreon link redirects to the
 Public lore scope: the hub separates **Hymerrant** (Rojos and Ptōma) from **Ūterþe** (Siishi, Ixkan, Xenthis and Erros), and cautions that canonical depictions are limited. These are research leads, **not additional user-favorited characters or JetSetCraft selections**.
 
 No private archive, locked post, artwork or paid model was accessed or copied. No general game-adaptation or redistribution permission is established. The creator's separate personal/account context is not expanded here. This is a partial public-source inventory, not a complete archive.
+
+## bjpentecost — favorite visual artist
+
+**Favorite status: owner-confirmed (2026-11-15).** The owner's exact [DeviantArt Watch link](https://www.deviantart.com/watch/bjpentecost/deviations) identifies the handle `bjpentecost`; the conventional [DeviantArt profile URL](https://www.deviantart.com/bjpentecost) is also provided as a navigation aid. The artist is an explicit personal favorite, distinct from general creator-discovery leads.
+
+The page content could not be independently inspected (DeviantArt returned HTTP 403), so the artist's display name, other social accounts, individual works and stylistic labels remain unverified. This record does not assert particular favorite pieces, permission to reuse art, or a JetSetCraft asset request. Follow the creator's links; do not copy or rehost artwork without appropriate rights.
