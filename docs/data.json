@@ -2628,6 +2628,14 @@
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
         }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
+        }
       ]
     },
     {
@@ -2666,6 +2674,14 @@
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
         }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
+        }
       ]
     },
     {
@@ -2701,6 +2717,14 @@
           "label": "Creator: publisher biography",
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
+        }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
         }
       ]
     },
@@ -2740,6 +2764,14 @@
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
         }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
+        }
       ]
     },
     {
@@ -2775,6 +2807,14 @@
           "label": "Creator: publisher biography",
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
+        }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
         }
       ]
     },
@@ -2812,6 +2852,14 @@
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
         }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
+        }
       ]
     },
     {
@@ -2847,6 +2895,14 @@
           "label": "Creator: publisher biography",
           "url": "https://www.simonandschuster.com/authors/Vivienne-Medrano/265619435",
           "status": "Publisher source"
+        }
+      ],
+      "universeId": "core-hazbin-hotel",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; Prime Video series scope, not pilot-specific lore"
         }
       ]
     },
@@ -3799,7 +3855,29 @@
           "checkedAt": "2026-11-16"
         }
       ]
+    },
+    {
+      "id": "core-hazbin-hotel",
+      "type": "series",
+      "name": "Hazbin Hotel",
+      "coreMemory": true,
+      "category": "Favorite universes",
+      "creator": "Vivienne \"VivziePop\" Medrano",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Series premiere date not established by this pass",
+      "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Hazbin-Hotel.md",
+      "description": "Source series for seven existing favorite characters. Added under the favorite-character/source-universe rule. Prime Video continuity is distinguished from the earlier YouTube pilot.",
+      "evidence": "Amazon publisher guide by Tyler Greenawalt, published 2025-09-11 and updated 2026-04-27; primary page read 2026-11-16. Creator and seven cast identities corroborated. No artwork copied, playback tested or reuse permission inferred.",
+      "sourceLinks": [
+        {
+          "label": "Official publisher cast and series guide",
+          "url": "https://www.aboutamazon.com/news/entertainment/where-to-watch-hazbin-hotel-prime-video",
+          "status": "Primary page read 2026-11-16; publisher source"
+        }
+      ]
     }
   ],
-  "updated": "2026-11-15"
+  "updated": "2026-11-16"
 }
