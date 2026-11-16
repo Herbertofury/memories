@@ -71,3 +71,37 @@ The game-level developer credit does not establish the artist of every third-par
 User-selected favorite, associated by the user with Cyberpunk 2077. The [official Cyberpunk: Edgerunners 2 site](https://www.cyberpunk.net/en/edgerunners2) verifies **Talia** in the anime's character roster and credits the show to **CD PROJEKT RED and TRIGGER**. This establishes the show association within the Cyberpunk 2077 world, not a claim that she is an original base-game NPC. The surname **Yang** is retained from the user's supplied name; the reviewed official profile heading uses Talia alone.
 
 No premiere date, character age, image license or model permission is inferred. No image or fan model was copied, and no JetSetCraft appearance is claimed complete.
+
+## Surge the Tenrec — Sonic the Hedgehog
+
+**User-confirmed favorite character.** Surge is cataloged in the **IDW Sonic the Hedgehog comic continuity**. The [official IDW Imposter Syndrome collection](https://idwpublishing.com/products/sonic-the-hedgehog-imposter-syndrome) identifies Surge and Kit as challengers intended to replace Sonic and Tails.
+
+**Source review: 16 November 2026.** Public publisher page read; character/franchise rights remain with their respective owners, including SEGA. This is a scoped identity record, not an exhaustive biography. No first-appearance date is inferred and no artwork, comic pages, model or other media was copied.
+
+## Octavia — Helluva Boss
+
+**User-confirmed favorite character.** Octavia (also called **Via**) belongs to **Helluva Boss**, created by **Vivienne Medrano / SpindleHorse**, not another franchise's similarly named character.
+
+**Source review: 16 November 2026.** The public [licensed Youtooz Octavia listing](https://youtooz.com/products/octavia) corroborates the character, alias and show association. This merchandise source is not a complete canonical biography; its product release date is not her first appearance. [SpindleHorse](https://spindlehorse.com/) is the studio reference. No artwork, model or other media was copied, and favorite status does not grant asset reuse rights.
+
+## Additional user-confirmed favorites
+
+Reviewed 16 November 2026. No artwork, models or media imported; debut dates remain unverified.
+
+| Character | Source series/universe | Identity evidence |
+|---|---|---|
+| Ankha | Animal Crossing | [amiibo.life character card](https://amiibo.life/amiibo/animal-crossing-cards-series-2/ankha), **unofficial fan reference**, indexed excerpt checked. Primary character-page verification remains pending. |
+| Judy Hopps | Zootopia | [Disney's official film page](https://movies.disney.com/zootopia), public page read; identifies Judy as a bunny police officer. |
+| Michiru Kagemori / 影森みちる | BNA: Brand New Animal | [Official production character profile](https://bna-anime.com/character/01.php), public page read; identifies Michiru and her tanuki form. |
+
+### Favorite source universes
+
+At the user's explicit direction, adding a favorite character also adds their source series/universe as a favorite. This pass includes **Sonic the Hedgehog, Helluva Boss, Animal Crossing, Zootopia and BNA: Brand New Animal**. Existing Sonic and Helluva Boss records are reused rather than duplicated. Character continuity stays scoped; no unrelated series or every adaptation is automatically endorsed. This preference is separate from any asset-reuse permission.
+
+## Captain Amelia — Treasure Planet
+
+User-confirmed favorite from Disney's **Treasure Planet**; the film/universe is also a favorite. [Official Disney film page](https://movies.disney.com/treasure-planet), indexed excerpt checked 16 November 2026, establishes film provenance. Character association supplied by the user; detailed biography not verified. No artwork or media copied.
+
+## Jane Porter — Tarzan
+
+User-confirmed favorite from Disney's **Tarzan**; this film adaptation/universe is also a favorite, distinct from other Tarzan adaptations. [Official Disney film page](https://movies.disney.com/tarzan), indexed excerpt checked 16 November 2026, identifies Jane and the film. Full name retained from the user's request; no debut date inferred. No artwork or media copied.
