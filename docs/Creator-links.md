@@ -65,3 +65,7 @@ The user explicitly selected **Discreet user** as a favorite author on 16 Novemb
 ## Automatic discovery boundaries
 
 The build generates a metadata-only research queue from favorite records. It retains source links and unresolved social/lore/character/universe questions; it does not crawl adult galleries, log in, verify ownership from handle similarity, or claim that queued work is researched. Reviewed discoveries must be reconciled with creator-owned evidence before publication. See [build-generated research queue](https://herbertofury.github.io/memories/research-queue.json).
+
+### Serena (Ruaidri)
+
+User-confirmed favorite character, associated with Ruaidri. The creator's [Refs - All Characters](https://www.patreon.com/ruaidri/posts/refs-all-95822388) search-index excerpt names Serena; the indexed [public creator journals](https://www.furaffinity.net/journals/ruaidri/) describe her as a ferret. Checked 16 November 2026. This is indexed creator-source corroboration, not a direct review of reference images or a complete biography. The user's e621 post reference 6163537 was retained as an intake identifier; no adult images, paid references or protected material were copied. A named universe and original debut date remain unverified, so no universe is invented.
