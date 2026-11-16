@@ -3690,6 +3690,32 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
       "checkedAt": "2026-11-16",
       "discoveryStatus": "partial; public metadata only"
+    },
+    {
+      "id": "core-serena-ruaidri",
+      "type": "character",
+      "name": "Serena (Ruaidri)",
+      "characters": [
+        "Serena"
+      ],
+      "aliases": [
+        "serena_(ruaidri)"
+      ],
+      "creator": "Ruaidri",
+      "creatorId": "core-ruaidri",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "category": "Favorite characters",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "description": "User-selected favorite character associated with Ruaidri. Creator reference index names Serena; a named source universe remains unverified.",
+      "evidence": "User supplied character attribution and e621 post reference 6163537. Creator-authored Patreon Refs - All Characters indexed text checked 2026-11-16 includes Serena. Indexed public Fur Affinity journal calls Serena a ferret. No images, private references or paid contents retrieved; no reuse rights inferred.",
+      "sourceType": "creator-authored metadata; search-index excerpts only",
+      "universeStatus": "Unknown; research pending",
+      "checkedAt": "2026-11-16"
     }
   ],
   "updated": "2026-11-15"
