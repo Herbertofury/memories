@@ -888,7 +888,9 @@
       "url": "https://spindlehorse.com/pages/our-work",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Modern-animation.md",
       "evidence": "Date precision retained where available. Episode inventory incomplete; playback untested.",
-      "originalDate": null
+      "originalDate": null,
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite source universe"
     },
     {
       "id": "series-lackadaisy",
@@ -1334,7 +1336,8 @@
       "evidence": "Official SEGA hub",
       "coreMemory": true,
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md",
-      "originalDate": null
+      "originalDate": null,
+      "preferenceStatus": "user-confirmed favorite source universe"
     },
     {
       "id": "core-mario",
@@ -3356,6 +3359,251 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md#juuzou-suzuya--tokyo-ghoul",
       "description": "User-selected favorite character from Tokyo Ghoul and Tokyo Ghoul:re. A distinctive CCG investigator with pale hair, visible red stitches and an unconventional fighting style.",
       "evidence": "Favorite status explicitly requested by the user on 2026-11-15. Tokyo Ghoul:re official production character directory referenced. No artwork, image or model copied; character debut date not inferred."
+    },
+    {
+      "id": "core-surge-the-tenrec",
+      "name": "Surge the Tenrec",
+      "creator": "SEGA / IDW Publishing",
+      "series": "Sonic the Hedgehog (IDW comics)",
+      "characters": [
+        "Surge the Tenrec"
+      ],
+      "aliases": [
+        "Surge"
+      ],
+      "url": "https://idwpublishing.com/products/sonic-the-hedgehog-imposter-syndrome",
+      "description": "User-selected favorite character from the Sonic the Hedgehog IDW comics. IDW's Imposter Syndrome collection identifies Surge and Kit as challengers intended to replace Sonic and Tails.",
+      "evidence": "User-confirmed favorite. Official publisher product page read 2026-11-16; scoped to the IDW comic continuity. No debut date inferred or artwork copied.",
+      "sourceType": "official publisher",
+      "continuity": "IDW Sonic the Hedgehog comics",
+      "type": "character",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "checkedAt": "2026-11-16",
+      "accessState": "public page read",
+      "assetRights": "No image, model or media redistribution license inferred; no assets imported.",
+      "universeId": "core-sonic"
+    },
+    {
+      "id": "core-octavia-helluva-boss",
+      "name": "Octavia",
+      "creator": "Vivienne Medrano / SpindleHorse",
+      "series": "Helluva Boss",
+      "characters": [
+        "Octavia"
+      ],
+      "aliases": [
+        "Octavia (Helluva Boss)",
+        "Via"
+      ],
+      "url": "https://youtooz.com/products/octavia",
+      "description": "User-selected favorite character from Helluva Boss, the animated series created by Vivienne Medrano. Kept distinct from other characters named Octavia.",
+      "evidence": "User-confirmed favorite. Licensed Youtooz Octavia product page read 2026-11-16 corroborates the character and Helluva Boss association; not a comprehensive lore source. Merchandise release date is not the character's debut. No artwork copied.",
+      "sourceType": "licensed merchandise",
+      "continuity": "Helluva Boss",
+      "type": "character",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "checkedAt": "2026-11-16",
+      "accessState": "public page read",
+      "assetRights": "No image, model or media redistribution license inferred; no assets imported.",
+      "universeId": "series-helluva-boss"
+    },
+    {
+      "id": "core-ankha",
+      "type": "character",
+      "name": "Ankha",
+      "series": "Animal Crossing",
+      "creator": "Nintendo",
+      "url": "https://amiibo.life/amiibo/animal-crossing-cards-series-2/ankha",
+      "description": "User-selected Animal Crossing character. Character association corroborated by the unofficial amiibo.life catalog; primary character-page verification remains pending.",
+      "sourceType": "fan reference; indexed excerpt",
+      "universeId": "core-animal-crossing",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "Ankha"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "evidence": "Identity source checked 2026-11-16; fan reference; indexed excerpt. Favorite status supplied by user. No art or media copied; no rights inferred."
+    },
+    {
+      "id": "core-judy-hopps",
+      "type": "character",
+      "name": "Judy Hopps",
+      "series": "Zootopia",
+      "creator": "Walt Disney Animation Studios",
+      "url": "https://movies.disney.com/zootopia",
+      "description": "User-selected favorite. Disney identifies Judy Hopps as Zootopia's first bunny police officer.",
+      "sourceType": "official studio; public page read",
+      "universeId": "core-zootopia",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "Judy Hopps"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "evidence": "Identity source checked 2026-11-16; official studio; public page read. Favorite status supplied by user. No art or media copied; no rights inferred."
+    },
+    {
+      "id": "core-michiru-kagemori",
+      "type": "character",
+      "name": "Michiru Kagemori",
+      "series": "BNA: Brand New Animal",
+      "creator": "TRIGGER / BNA production committee",
+      "url": "https://bna-anime.com/character/01.php",
+      "description": "User-selected favorite. Official BNA character profile identifies Michiru Kagemori (影森みちる), a tanuki beast-person.",
+      "sourceType": "official production; public page read",
+      "universeId": "core-bna",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "Michiru Kagemori"
+      ],
+      "aliases": [
+        "影森みちる",
+        "Michiru"
+      ],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "evidence": "Identity source checked 2026-11-16; official production; public page read. Favorite status supplied by user. No art or media copied; no rights inferred."
+    },
+    {
+      "id": "core-animal-crossing",
+      "type": "franchise",
+      "name": "Animal Crossing",
+      "url": "https://animal-crossing.com/",
+      "creator": "Nintendo",
+      "coreMemory": true,
+      "category": "Favorite series and universes",
+      "preferenceStatus": "user-confirmed via favorite-character source-universe instruction",
+      "date": null,
+      "originalDate": null,
+      "description": "Favorite source series/universe, included under the user's instruction to favorite the origin of each selected favorite character.",
+      "evidence": "Preference explicitly supplied by user; linked franchise/production source. No images or media copied."
+    },
+    {
+      "id": "core-zootopia",
+      "type": "franchise",
+      "name": "Zootopia",
+      "url": "https://movies.disney.com/zootopia",
+      "creator": "Walt Disney Animation Studios",
+      "coreMemory": true,
+      "category": "Favorite series and universes",
+      "preferenceStatus": "user-confirmed via favorite-character source-universe instruction",
+      "date": null,
+      "originalDate": null,
+      "description": "Favorite source series/universe, included under the user's instruction to favorite the origin of each selected favorite character.",
+      "evidence": "Preference explicitly supplied by user; linked franchise/production source. No images or media copied."
+    },
+    {
+      "id": "core-bna",
+      "type": "franchise",
+      "name": "BNA: Brand New Animal",
+      "url": "https://bna-anime.com/",
+      "creator": "TRIGGER / BNA production committee",
+      "coreMemory": true,
+      "category": "Favorite series and universes",
+      "preferenceStatus": "user-confirmed via favorite-character source-universe instruction",
+      "date": null,
+      "originalDate": null,
+      "description": "Favorite source series/universe, included under the user's instruction to favorite the origin of each selected favorite character.",
+      "evidence": "Preference explicitly supplied by user; linked franchise/production source. No images or media copied."
+    },
+    {
+      "id": "core-captain-amelia",
+      "type": "character",
+      "name": "Captain Amelia",
+      "series": "Treasure Planet",
+      "universeId": "core-treasure-planet",
+      "creator": "Disney (film adaptation)",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "Captain Amelia"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://movies.disney.com/treasure-planet",
+      "description": "User-selected favorite character from Disney's Treasure Planet. Film adaptation kept distinct from other versions.",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "evidence": "User supplied character identity and film association. Official Disney film page indexed excerpt reviewed 2026-11-16 for film provenance; detailed character biography not verified. No artwork or media copied."
+    },
+    {
+      "id": "core-treasure-planet",
+      "type": "franchise",
+      "name": "Treasure Planet (Disney)",
+      "creator": "Disney",
+      "url": "https://movies.disney.com/treasure-planet",
+      "coreMemory": true,
+      "category": "Favorite series and universes",
+      "preferenceStatus": "user-confirmed via favorite-character source-universe instruction",
+      "date": null,
+      "originalDate": null,
+      "description": "User-selected favorite source film/universe for Captain Amelia.",
+      "evidence": "Official Disney film page indexed excerpt reviewed 2026-11-16. No media copied."
+    },
+    {
+      "id": "core-jane-porter",
+      "type": "character",
+      "name": "Jane Porter",
+      "series": "Tarzan",
+      "universeId": "core-tarzan",
+      "creator": "Disney (film adaptation)",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "Jane Porter"
+      ],
+      "aliases": [],
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://movies.disney.com/tarzan",
+      "description": "User-selected favorite character from Disney's Tarzan. Film adaptation kept distinct from other versions.",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
+      "evidence": "User supplied character identity and film association. Official Disney film page indexed excerpt reviewed 2026-11-16 for film provenance; detailed character biography not verified. No artwork or media copied."
+    },
+    {
+      "id": "core-tarzan",
+      "type": "franchise",
+      "name": "Tarzan (Disney)",
+      "creator": "Disney",
+      "url": "https://movies.disney.com/tarzan",
+      "coreMemory": true,
+      "category": "Favorite series and universes",
+      "preferenceStatus": "user-confirmed via favorite-character source-universe instruction",
+      "date": null,
+      "originalDate": null,
+      "description": "User-selected favorite source film/universe for Jane Porter.",
+      "evidence": "Official Disney film page indexed excerpt reviewed 2026-11-16. No media copied."
     }
   ],
   "updated": "2026-11-15"
