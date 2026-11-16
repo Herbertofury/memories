@@ -49,3 +49,19 @@ No private archive, locked post, artwork or paid model was accessed or copied. N
 **Favorite status: owner-confirmed (2026-11-15).** The owner's exact [DeviantArt Watch link](https://www.deviantart.com/watch/bjpentecost/deviations) identifies the handle `bjpentecost`; the conventional [DeviantArt profile URL](https://www.deviantart.com/bjpentecost) is also provided as a navigation aid. The artist is an explicit personal favorite, distinct from general creator-discovery leads.
 
 The page content could not be independently inspected (DeviantArt returned HTTP 403), so the artist's display name, other social accounts, individual works and stylistic labels remain unverified. This record does not assert particular favorite pieces, permission to reuse art, or a JetSetCraft asset request. Follow the creator's links; do not copy or rehost artwork without appropriate rights.
+
+## Ruaidri — favorite artist/author
+
+User-confirmed favorite. [Patreon](https://www.patreon.com/ruaidri) and the creator's [public impersonation warning](https://www.patreon.com/ruaidri/posts/warning-discord-127404563) were reviewed 16 November 2026. The warning explicitly disclaims Discord handle `@ruaidriart`; similarly named accounts are not merged. The [Fur Affinity profile](https://www.furaffinity.net/user/ruaidri/) is indexed, but direct retrieval is restricted. The user-supplied e621 tag `ruaidri` returned 402; no alternate route was used and no images were copied.
+
+### Moira (Ruaidri)
+
+User-confirmed favorite character, identified by the supplied tag `moira_(ruaidri)` and attributed by the user to Ruaidri. A primary character biography and named universe remain unverified. Do not invent a universe, merge other characters named Moira, or infer rights from favorite status. No artwork or adult media is bundled.
+
+## Discreet favorite status
+
+The user explicitly selected **Discreet user** as a favorite author on 16 November 2026. This reuses the Discreet / Dhiskcrete identity documented above, not an unrelated account. The indexed creator profile supports the alias; source access and asset rights remain limited as recorded. Existing Mylar Bezier records are preserved.
+
+## Automatic discovery boundaries
+
+The build generates a metadata-only research queue from favorite records. It retains source links and unresolved social/lore/character/universe questions; it does not crawl adult galleries, log in, verify ownership from handle similarity, or claim that queued work is researched. Reviewed discoveries must be reconciled with creator-owned evidence before publication. See [research queue](research-queue.json).
