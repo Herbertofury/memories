@@ -3604,6 +3604,92 @@
       "originalDate": null,
       "description": "User-selected favorite source film/universe for Jane Porter.",
       "evidence": "Official Disney film page indexed excerpt reviewed 2026-11-16. No media copied."
+    },
+    {
+      "id": "core-ruaidri",
+      "type": "creator",
+      "name": "Ruaidri",
+      "aliases": [],
+      "category": "Favorite authors",
+      "url": "https://www.patreon.com/ruaidri",
+      "description": "User-selected favorite artist/author. Public creator safety notice corroborates the Patreon identity and mentions Fur Affinity as a verification channel.",
+      "evidence": "Public Patreon warning read 2026-11-16. User-supplied e621 tag could not be fetched (402); no post images accessed or copied. Creator warns that Discord @ruaidriart is not them; do not merge similarly named accounts.",
+      "sourceLinks": [
+        {
+          "label": "Creator's public impersonation warning",
+          "url": "https://www.patreon.com/ruaidri/posts/warning-discord-127404563",
+          "status": "Creator-authored public page read 2026-11-16"
+        },
+        {
+          "label": "Fur Affinity identity pointer",
+          "url": "https://www.furaffinity.net/user/ruaidri/",
+          "status": "Indexed profile only; direct retrieval restricted"
+        }
+      ],
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "checkedAt": "2026-11-16",
+      "discoveryStatus": "partial; public metadata only"
+    },
+    {
+      "id": "core-discreet-user",
+      "type": "creator",
+      "name": "Discreet / Dhiskcrete",
+      "aliases": [
+        "discreet user",
+        "Discreet_user",
+        "discreetuser",
+        "Dhiskcrete"
+      ],
+      "category": "Favorite authors",
+      "url": "https://www.furaffinity.net/user/discreetuser/",
+      "description": "User-selected favorite artist/author. Fur Affinity indexed creator profile identifies Dhiskcrete and earlier Discreet_user alias. Existing Mylar Bezier attribution is retained separately.",
+      "evidence": "Indexed creator-source corroboration checked 2026-11-16 and existing Creator-links.md reviewed. Direct profile previously restricted; not bypassed. Rights and character-universe inventory unresolved.",
+      "sourceLinks": [
+        {
+          "label": "User-provided X profile",
+          "url": "https://x.com/Discreet_user_",
+          "status": "Existing user-provided reference; direct retrieval previously 403"
+        }
+      ],
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "checkedAt": "2026-11-16",
+      "discoveryStatus": "partial; public metadata only"
+    },
+    {
+      "id": "core-moira-ruaidri",
+      "type": "character",
+      "name": "Moira (Ruaidri)",
+      "characters": [
+        "Moira"
+      ],
+      "aliases": [
+        "moira_(ruaidri)"
+      ],
+      "creator": "Ruaidri (user attribution)",
+      "creatorId": "core-ruaidri",
+      "category": "Favorite characters",
+      "url": "https://www.patreon.com/ruaidri",
+      "description": "User-selected favorite character, attributed by the user to Ruaidri. Specific named source universe remains unverified; none is invented.",
+      "evidence": "Character name and creator attribution supplied by the user via tag moira_(ruaidri). Character-specific primary biography not verified; no image, post or protected content copied.",
+      "universeStatus": "Unknown; research pending",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Original date not verified",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "checkedAt": "2026-11-16",
+      "discoveryStatus": "partial; public metadata only"
     }
   ],
   "updated": "2026-11-15"
