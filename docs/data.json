@@ -3689,7 +3689,26 @@
       "dateLabel": "Original date not verified",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
       "checkedAt": "2026-11-16",
-      "discoveryStatus": "partial; public metadata only"
+      "discoveryStatus": "partial; public metadata only",
+      "sourceLinks": [
+        {
+          "label": "Creator reference-sheet index (metadata only)",
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "status": "Creator-owned index names this character in search-index text; sheet images/access/rights unverified"
+        }
+      ],
+      "referenceSheets": [
+        {
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "title": "Refs - All Characters",
+          "creator": "Ruaidri",
+          "sourceType": "creator-owned reference index",
+          "verification": "index-only; sheet not inspected",
+          "access": "indexed text only; image access unverified",
+          "rights": "No redistribution license established",
+          "checkedAt": "2026-11-16"
+        }
+      ]
     },
     {
       "id": "core-serena-ruaidri",
@@ -3715,7 +3734,71 @@
       "evidence": "User supplied character attribution and e621 post reference 6163537. Creator-authored Patreon Refs - All Characters indexed text checked 2026-11-16 includes Serena. Indexed public Fur Affinity journal calls Serena a ferret. No images, private references or paid contents retrieved; no reuse rights inferred.",
       "sourceType": "creator-authored metadata; search-index excerpts only",
       "universeStatus": "Unknown; research pending",
-      "checkedAt": "2026-11-16"
+      "checkedAt": "2026-11-16",
+      "sourceLinks": [
+        {
+          "label": "Creator reference-sheet index (metadata only)",
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "status": "Creator-owned index names this character in search-index text; sheet images/access/rights unverified"
+        }
+      ],
+      "referenceSheets": [
+        {
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "title": "Refs - All Characters",
+          "creator": "Ruaidri",
+          "sourceType": "creator-owned reference index",
+          "verification": "index-only; sheet not inspected",
+          "access": "indexed text only; image access unverified",
+          "rights": "No redistribution license established",
+          "checkedAt": "2026-11-16"
+        }
+      ]
+    },
+    {
+      "id": "core-dominique-ruaidri",
+      "type": "character",
+      "name": "Dominique (Ruaidri)",
+      "characters": [
+        "Dominique"
+      ],
+      "aliases": [
+        "dominique_(ruaidri)"
+      ],
+      "creator": "Ruaidri",
+      "creatorId": "core-ruaidri",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "category": "Favorite characters",
+      "date": null,
+      "originalDate": null,
+      "dateLabel": "Character debut date not verified",
+      "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Creator-links.md",
+      "description": "User-selected favorite character associated with Ruaidri. Creator reference index names Dominique; a named source universe remains unverified.",
+      "evidence": "User supplied character attribution and e621 post identifier 6123875. Creator-authored Patreon Refs - All Characters indexed text checked 2026-11-16 includes Dominique. No images, private references or paid content retrieved; no reuse rights inferred.",
+      "sourceType": "creator-authored metadata; indexed excerpt only",
+      "universeStatus": "Unknown; research pending",
+      "checkedAt": "2026-11-16",
+      "sourceLinks": [
+        {
+          "label": "Creator reference-sheet index (metadata only)",
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "status": "Creator-owned index names this character in search-index text; sheet images/access/rights unverified"
+        }
+      ],
+      "referenceSheets": [
+        {
+          "url": "https://www.patreon.com/ruaidri/posts/refs-all-95822388",
+          "title": "Refs - All Characters",
+          "creator": "Ruaidri",
+          "sourceType": "creator-owned reference index",
+          "verification": "index-only; sheet not inspected",
+          "access": "indexed text only; image access unverified",
+          "rights": "No redistribution license established",
+          "checkedAt": "2026-11-16"
+        }
+      ]
     }
   ],
   "updated": "2026-11-15"
