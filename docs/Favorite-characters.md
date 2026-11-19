@@ -109,3 +109,20 @@ User-confirmed favorite from Disney's **Tarzan**; this film adaptation/universe 
 ## Nixia — DatKawaiiWolfy
 
 User-selected favorite; creator-authored reference identifies an original slime character with a VRChat representation. No named source universe or debut date is verified. [Identity, original post, component credits and rights](Nixia.md). Metadata and links only; no artwork or model imported.
+
+## Belle Delphine
+
+User-confirmed favorite, recorded 2026-11-19. A real public persona, not a fictional character. Included in the site's **Favorite people and personas** category and Core memories, separate from browser-local heart selections. Non-explicit source imagery/video curation remains pending: conflicting channel results were not treated as verified identity, and no media was copied or claimed playable.
+
+## iluvmeww
+
+User-confirmed favorite character/reference, using the corrected spelling. [Reference and evidence limits](Core-memories.md#iluvmeww--owner-selected-favorite-characterreference). Exact owner Short is included in the site catalog for its supported click-to-load player, with playback unverified.
+
+## Interactive collection and remaining presentation work
+
+[Browse the sortable collection](https://herbertofury.github.io/memories/). Characters, Core memories, category, search and original-date/A–Z controls are implemented in the site source. Browser-local hearts are a separate selection, not automatically all user-confirmed catalog favorites. Source images are partial; missing verified media is displayed honestly. Supported YouTube links offer opt-in players and direct-link fallback; an iframe loading does not prove actual playback. Other hosts are links, not universal inline players.
+
+- [x] Add Belle Delphine and iluvmeww to the actual data catalog, not prose alone.
+- [ ] Build a dedicated shareable curated-favorites landing view with character/persona/universe filters, independent of browser-local heart state.
+- [ ] Complete rights/source-verified non-explicit imagery and supported video coverage, including accurate missing-media states.
+- [ ] Verify keyboard/mobile sorting, real supported playback and blocked/age-restricted/embed-disabled fallbacks on the deployed site.
