@@ -66,3 +66,19 @@ The public [migrated artist catalog](https://github.com/Herbertofury/Athena/blob
 Historical context records the owner's correction that saveroom's style is broader than Dreamcast or Frutiger Aero, with **ethereal CGI** offered as a better exploratory description. The original conversation was not recovered in this review, so this is retained as a historical preference-context summary, not a newly verified quotation. **Silicon Dreams, retro CGI and Bryce3D** are later research/search descriptors, not independently confirmed personal favorites, creator-endorsed labels or evidence of which software made a particular work. Do not collapse all of these terms into aliases or freeze an old theme package as authority.
 
 The migrated provenance links [TikTok](https://www.tiktok.com/@saveroomlofi?lang=en), [Spotify](https://open.spotify.com/artist/3HU6PVCUQFeAUbnFgMQPz8), [Bandcamp](https://saveroomlofi.bandcamp.com/), [SoundCloud](https://soundcloud.com/saveroomlofi) and [Apple Music](https://music.apple.com/us/artist/saveroom/1720344723). These are recovered source links with historical provenance, not a claim that every profile or current release was revalidated today. No reference screenshots or audio are reproduced; the catalog's reference-only rights boundary remains intact.
+
+
+## Followed design source: UberDesigner (2026-11-19)
+
+[UberDesigner / Haelith](https://uberdesigner.ai/t/haelith) is a user-requested design-quality reference to follow alongside existing sources, not a replacement for every project's identity. The live preview was visually reviewed: a cinematic, looping CRM-dashboard demonstration with graphite panels, clear typographic hierarchy and restrained accents. The page describes HTML/CSS 3D transforms, SVG, React/Vite/TypeScript and a reduced-motion final state. This is a product reel, not proof of working CRM features.
+
+The project is labeled **PRO**. Its visible license summary permits subscription-based personal/commercial use but prohibits sharing/reselling template, prompt or files. [Review its license](https://uberdesigner.ai/license) before any future reuse. No template, prompt, artwork or code was copied; no paid account or social-platform follow was created. This is a curated follow-list entry, not a notification subscription.
+
+### Cross-project UI upgrade backlog
+- [x] Add UberDesigner as a source-linked quality reference with rights boundaries.
+- [x] Implement an original, scoped black-default Memories favorites gallery treatment, preserving its warm cassette/editorial identity and existing collection behavior.
+- [ ] Review and upgrade each remaining repository's primary workflows individually, preserving its existing colors and design identity. This first slice is **not** an all-repository redesign.
+- [ ] Preserve GameSync Next's current interface; any upgraded version must be a **selectable setting**, not a replacement.
+- [ ] For each implementation verify narrow/mobile layout, keyboard focus, empty/error states, interrupted/repeated actions, reduced motion and existing user data. Do not imitate the reel's camera motion during normal app work or add fabricated metrics.
+
+The Memories slice uses an original page-scoped stylesheet: black background, quieter panel hierarchy, larger uncropped source-image areas, readable evidence text and larger heart/export controls. Shared catalog logic, source provenance, browser-local hearts, media consent and the original home page are preserved. Rendered deployment acceptance is separate from source/unit checks.
