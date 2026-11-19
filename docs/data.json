@@ -3939,6 +3939,34 @@
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md#iluvmeww--owner-selected-favorite-characterreference",
       "description": "Owner-selected favorite and JetSetCraft Phonkistas inspiration, alongside Hokus Pokus by Insane Clown Posse. Character/persona/creator identity remains unverified.",
       "evidence": "Corrected owner spelling 2026-11-19. Exact owner-supplied Short; retrieval throttled. Embed-ready URL is not proof of playback, soundtrack match or rights."
+    },
+    {
+      "id": "core-owl-snake-hybrid-amikoru01",
+      "type": "character",
+      "name": "Owl–snake hybrid (name unverified)",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character",
+      "characters": [
+        "owl snake hybrid"
+      ],
+      "aliases": [
+        "owl–snake hybrid",
+        "owl-snake hybrid"
+      ],
+      "date": null,
+      "originalDate": null,
+      "url": "https://x.com/Amikoru01/status/2123465423111016615?a=cvrUNKtCmZmQNqt_82g&s=20",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md#owl-snake-hybrid--amikoru01-post",
+      "description": "User-selected owl–snake hybrid character from the linked @Amikoru01 post. Proper name, source universe, character owner and original artist attribution remain unverified.",
+      "evidence": "Favorite and owl–snake description supplied by user 2026-11-19. Exact primary post returned HTTP 403 during research; no post imagery inspected or copied. Account in URL is a source pointer, not proof of character ownership or asset-reuse permission.",
+      "sourceLinks": [
+        {
+          "label": "Exact user-supplied character post",
+          "url": "https://x.com/Amikoru01/status/2123465423111016615?a=cvrUNKtCmZmQNqt_82g&s=20",
+          "status": "Primary post could not be retrieved; identity and rights verification pending"
+        }
+      ]
     }
   ],
   "updated": "2026-11-19"
