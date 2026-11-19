@@ -96,3 +96,14 @@ No complete channel pagination was performed. A search index is not an exhaustiv
 The public channel About response additionally exposes [Fennah Books](https://fennahbooks.com/), its [book catalog](https://fennahbooks.com/books), [SamFennah on X/Twitter](https://mobile.twitter.com/SamFennah), and [a second Discord invite](https://discord.gg/HY6MwPwVM9). Fennah Books and its catalog were independently inspected: they identify Sam Fennah and list Amygdala as Book 1 and Wonderlust as Book 2 of The August Few; duplicate format listings are not additional books. The Twitter destination was inaccessible, and neither Discord invite was joined. Do not assume the two Discord invites identify separate servers or replace one without verification.
 
 The initial Videos-tab public response exposed zero video records to the metadata reader. This is a retrieval limitation, not evidence of an empty channel. Full-video coverage remains incomplete.
+
+## iluvmeww — owner-selected favorite character/reference
+
+Added 2026-11-19 at the owner's request, using their corrected spelling **iluvmeww** (not ilubmeww).
+
+- Favorite status: explicitly owner-selected; retain as a favorite character/reference without assuming whether the name identifies a fictional character, persona or creator handle.
+- Exact owner reference: [YouTube Short](https://www.youtube.com/shorts/kT0JtBpVUh0?feature=share), video ID `kT0JtBpVUh0`.
+- Related owner music reference: **Hokus Pokus — Insane Clown Posse**. Exact recording/edit and whether it is the Short's soundtrack remain unverified.
+- Also requested as [JetSetCraft Phonkistas inspiration](https://github.com/Herbertofury/JetSetCraft/blob/main/wiki/Phonkistas.md). The existing approved gang spelling is Phonkistas; the request's “honkistas” is mapped to that established gang, not a new faction.
+- Verification: direct public video retrieval was throttled and the exact-name/video search returned no result. This does not prove deletion. Creator identity, character lore, visual details, upload date and ownership remain unverified; no cross-site identity inferred.
+- Reference links only: no video, artwork or copyrighted audio downloaded, copied or licensed by this entry.
