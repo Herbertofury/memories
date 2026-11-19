@@ -82,3 +82,24 @@ The project is labeled **PRO**. Its visible license summary permits subscription
 - [ ] For each implementation verify narrow/mobile layout, keyboard focus, empty/error states, interrupted/repeated actions, reduced motion and existing user data. Do not imitate the reel's camera motion during normal app work or add fabricated metrics.
 
 The Memories slice uses an original page-scoped stylesheet: black background, quieter panel hierarchy, larger uncropped source-image areas, readable evidence text and larger heart/export controls. Shared catalog logic, source provenance, browser-local hearts, media consent and the original home page are preserved. Rendered deployment acceptance is separate from source/unit checks.
+
+
+## Followed design source: Libraries.dev (2026-11-19)
+
+[Libraries.dev](https://libraries.dev/) is another user-requested learning reference alongside UberDesigner. Its public catalog includes decorative interaction libraries and sensor-input models, not a universal application design system. [Upstream repository](https://github.com/Jakubantalik/Libraries.dev). Homepage and legal pages give inconsistent library counts (five versus seven); verify the exact package/version rather than treating the landing page as a complete inventory.
+
+### Practical candidates and boundaries
+- [Border Beam](https://libraries.dev/beam): a configurable animated border, including an explicit inactive state. Evaluate a restrained, project-colored emphasis on one meaningful operation, not every card. React 18+ is documented; the React Native port is explicitly not yet published on npm and needs native modules. This is not a drop-in Rust-native widget.
+- [Thinking Orbs](https://libraries.dev/orbs): distinct named visual states can reinforce genuine search/connection/work states. Always retain accurate text, cancellation and error feedback; animation is never evidence that a job is running. Do not introduce a React dependency solely to decorate the buildless Memories gallery.
+- [Accessibility guidance](https://libraries.dev/accessibility): upstream says reduced motion, semantic wrappers and off-screen rendering suspension are supported. Treat these as supplier claims to test, not our acceptance. Test keyboard focus, screen-reader status, no-motion completion and low-end/off-screen resource use in the actual app.
+- [Magnetic UI](https://libraries.dev/magnetic) is a physical magnetometer/model integration, not just a mouse-hover effect. Web use requires an Android bridge app and local-network access; iPhone browsers are excluded by its documentation. Hardware/calibration and permission requirements make it an exploratory track, not a dependency for desktop UIs.
+
+### Rights and engineering gates
+The [terms](https://libraries.dev/terms) distinguish MIT npm library code from paid Studio/Pro materials. Preserve MIT notices for reused code; paid presets/recipes are not a freely redistributable component kit. The [Model License](https://github.com/Jakubantalik/Libraries.dev/blob/main/LICENSE-MODEL.md), version 1.2 effective November 5, 2026, separately covers model weights: development/noncommercial use is allowed under its conditions, commercial releases require a qualifying plan, and standalone model hosting/public-repository distribution is prohibited. A code-level MIT label does not relicense those weights. Recheck the selected artifact's license before adoption.
+
+### Next implementation gates
+- [x] Record source, package/model distinction, rights and useful examples.
+- [ ] Select a real workflow that benefits from one effect; compare against a plain CSS/SVG solution and measure idle CPU/GPU, frame time and bundle cost.
+- [ ] Pin and inspect exact upstream package and license before any future installation; no packages, models, skills or paid content were installed or purchased in this review.
+- [ ] Preserve every project's existing colors/design identity and black-default theme. GameSync Next must retain its current UI, with the upgraded experience selectable, not replacing it.
+- [ ] Verify state truthfulness, reduced motion, keyboard behavior and interruption/retry flows before enabling effects. This source entry does not claim integration or all-repository upgrades.
