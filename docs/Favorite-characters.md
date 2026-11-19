@@ -123,6 +123,6 @@ User-confirmed favorite character/reference, using the corrected spelling. [Refe
 [Browse the sortable collection](https://herbertofury.github.io/memories/). Characters, Core memories, category, search and original-date/A–Z controls are implemented in the site source. Browser-local hearts are a separate selection, not automatically all user-confirmed catalog favorites. Source images are partial; missing verified media is displayed honestly. Supported YouTube links offer opt-in players and direct-link fallback; an iframe loading does not prove actual playback. Other hosts are links, not universal inline players.
 
 - [x] Add Belle Delphine and iluvmeww to the actual data catalog, not prose alone.
-- [ ] Build a dedicated shareable curated-favorites landing view with character/persona/universe filters, independent of browser-local heart state.
+- [x] Add [dedicated curated favorites](https://herbertofury.github.io/memories/favorites.html) with character/persona/universe filters, search, category and name/date sorting, independent of browser-local heart state. Source implemented 2026-11-19; deployed browser acceptance tracked separately.
 - [ ] Complete rights/source-verified non-explicit imagery and supported video coverage, including accurate missing-media states.
 - [ ] Verify keyboard/mobile sorting, real supported playback and blocked/age-restricted/embed-disabled fallbacks on the deployed site.
