@@ -3911,7 +3911,35 @@
           "status": "Primary browser read and video playback observed 2026-11-16; displayed publication 2026-11-15, not character debut"
         }
       ]
+    },
+    {
+      "id": "core-belle-delphine",
+      "type": "creator",
+      "name": "Belle Delphine",
+      "category": "Favorite people and personas",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite",
+      "date": null,
+      "originalDate": null,
+      "url": null,
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md#belle-delphine",
+      "description": "User-selected favorite public persona. Kept distinct from fictional characters; curated non-explicit media sources remain to be verified.",
+      "evidence": "Favorite status explicitly confirmed by user 2026-11-19. Conflicting channel search results were not merged. No image/video identity or playback claim; no media copied."
+    },
+    {
+      "id": "core-iluvmeww",
+      "type": "character",
+      "name": "iluvmeww",
+      "category": "Favorite characters",
+      "coreMemory": true,
+      "preferenceStatus": "user-confirmed favorite character/reference",
+      "date": null,
+      "originalDate": null,
+      "url": "https://www.youtube.com/shorts/kT0JtBpVUh0?feature=share",
+      "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Core-memories.md#iluvmeww--owner-selected-favorite-characterreference",
+      "description": "Owner-selected favorite and JetSetCraft Phonkistas inspiration, alongside Hokus Pokus by Insane Clown Posse. Character/persona/creator identity remains unverified.",
+      "evidence": "Corrected owner spelling 2026-11-19. Exact owner-supplied Short; retrieval throttled. Embed-ready URL is not proof of playback, soundtrack match or rights."
     }
   ],
-  "updated": "2026-11-16"
+  "updated": "2026-11-19"
 }
