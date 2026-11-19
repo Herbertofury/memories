@@ -2525,7 +2525,20 @@
       "url": "https://www.cyberpunk.net/en/edgerunners2",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
       "description": "User-selected favorite. Official Edgerunners 2 roster verifies Talia; Yang is retained from the user's name. Anime association is verified, not an original Cyberpunk 2077 base-game NPC claim.",
-      "evidence": "Official Cyberpunk.net character profile checked 2026-11-15. No age, asset license or image reuse permission inferred."
+      "evidence": "Official Cyberpunk.net character profile checked 2026-11-15. No age, asset license or image reuse permission inferred. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://www.cyberpunk.net/build/images/edgerunners2/characters/talia-f6ecd1a0.png",
+      "imageSource": "https://www.cyberpunk.net/en/edgerunners2",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with CD PROJEKT RED / TRIGGER.",
+      "imageIdentitySource": "https://www.cyberpunk.net/en/edgerunners2",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "CD PROJEKT RED / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://www.cyberpunk.net/en/edgerunners2",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        }
+      ]
     },
     {
       "id": "core-loona",
@@ -2925,7 +2938,20 @@
       "dateLabel": "Character debut date not verified",
       "url": "https://www.cyberpunk.net/en/edgerunners",
       "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
-      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://www.cyberpunk.net/build/images/edgerunners/characters/lucy@1x-03385e8a.png",
+      "imageSource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with CD PROJEKT RED / TRIGGER.",
+      "imageIdentitySource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "CD PROJEKT RED / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://www.cyberpunk.net/en/edgerunners",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        }
+      ]
     },
     {
       "id": "core-rebecca-cyberpunk",
@@ -2946,7 +2972,20 @@
       "dateLabel": "Character debut date not verified",
       "url": "https://www.cyberpunk.net/en/edgerunners",
       "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
-      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://www.cyberpunk.net/build/images/edgerunners/characters/rebecca@1x-b8bc9202.png",
+      "imageSource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with CD PROJEKT RED / TRIGGER.",
+      "imageIdentitySource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "CD PROJEKT RED / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://www.cyberpunk.net/en/edgerunners",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        }
+      ]
     },
     {
       "id": "core-panam-palmer",
@@ -3081,7 +3120,20 @@
       "dateLabel": "Character debut date not verified",
       "url": "https://www.cyberpunk.net/en/edgerunners",
       "description": "Curated addition under the user's request for Cyberpunk and Edgerunners favorite characters, not an independently named personal favorite or objective popularity ranking. JetSetCraft Edgerunners gang appearance requested/planned, not implemented.",
-      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review."
+      "evidence": "Official character/cosplay source: https://www.cyberpunk.net/en/edgerunners . Identity verified in source research 2026-11-15. No image or model imported; asset reuse requires separate rights review. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://www.cyberpunk.net/build/images/edgerunners/characters/david@1x-6aa86c3e.png",
+      "imageSource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with CD PROJEKT RED / TRIGGER.",
+      "imageIdentitySource": "https://www.cyberpunk.net/en/edgerunners",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "CD PROJEKT RED / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://www.cyberpunk.net/en/edgerunners",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        }
+      ]
     },
     {
       "id": "core-mylar-bezier",
@@ -3351,9 +3403,22 @@
       "date": null,
       "originalDate": null,
       "dateLabel": "Character debut date unverified",
-      "url": "https://www.gamesradar.com/entertainment/anime-shows/cyberpunk-edgerunners-season-2-review/",
-      "description": "User-selected favorite. Contemporary secondary coverage identifies Capri in Edgerunners 2; direct primary character documentation remains under review. JetSetCraft Edgerunners gang appearance planned, not implemented.",
-      "evidence": "GamesRadar series review identifies Capri; official main cast page did not list the character in this review. Secondary source, not official character page. No artwork/model or age assertion imported."
+      "url": "https://www.cyberpunk.net/en/edgerunners2",
+      "description": "User-selected favorite Capri, identified in the official Cyberpunk: Edgerunners 2 character roster. Studio provenance: CD PROJEKT RED and TRIGGER; individual portrait illustrator unverified.",
+      "evidence": "GamesRadar series review identifies Capri; official main cast page did not list the character in this review. Secondary source, not official character page. No artwork/model or age assertion imported. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://www.cyberpunk.net/build/images/edgerunners2/characters/capri-b61c77f8.png",
+      "imageSource": "https://www.cyberpunk.net/en/edgerunners2",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with CD PROJEKT RED / TRIGGER.",
+      "imageIdentitySource": "https://www.cyberpunk.net/en/edgerunners2",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "CD PROJEKT RED / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://www.cyberpunk.net/en/edgerunners2",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        }
+      ]
     },
     {
       "id": "core-tokyo-ghoul",
@@ -3411,10 +3476,17 @@
       "date": null,
       "originalDate": null,
       "dateLabel": "Character debut date not verified",
-      "url": "https://www.marv.jp/special/tokyoghoul/chara.html",
+      "url": "https://www.marv.jp/special/tokyoghoul/chara/chara_03_19.html",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md#juuzou-suzuya--tokyo-ghoul",
       "description": "User-selected favorite character from Tokyo Ghoul and Tokyo Ghoul:re. A distinctive CCG investigator with pale hair, visible red stitches and an unconventional fighting style.",
-      "evidence": "Favorite status explicitly requested by the user on 2026-11-15. Tokyo Ghoul:re official production character directory referenced. No artwork, image or model copied; character debut date not inferred."
+      "evidence": "Favorite status explicitly requested by the user on 2026-11-15. Tokyo Ghoul:re official production character directory referenced. No artwork, image or model copied; character debut date not inferred.",
+      "sourceLinks": [
+        {
+          "label": "Official Juuzou character profile",
+          "url": "https://www.marv.jp/special/tokyoghoul/chara/chara_03_19.html",
+          "status": "Official roster links this exact named profile; copyright credits Sui Ishida / Shueisha / Tokyo Ghoul:re production committee. Portrait retrieval failed, so not added."
+        }
+      ]
     },
     {
       "id": "core-surge-the-tenrec",
@@ -3545,7 +3617,25 @@
       "originalDate": null,
       "dateLabel": "Character debut date not verified",
       "notesUrl": "https://github.com/Herbertofury/memories/blob/main/docs/Favorite-characters.md",
-      "evidence": "Identity source checked 2026-11-16; official production; public page read. Favorite status supplied by user. No art or media copied; no rights inferred."
+      "evidence": "Identity source checked 2026-11-16; official production; public page read. Favorite status supplied by user. No art or media copied; no rights inferred. Official character portrait source verified 2026-11-19; source-hosted linked display, not a reusable asset grant. Unofficial fan collection, not endorsed by the studios.",
+      "imageUrl": "https://bna-anime.com/images/c1d.png",
+      "imageSource": "https://bna-anime.com/character/01.php",
+      "imageRights": "Official source-hosted portrait; linked display only, no asset copied or redistribution license inferred. Rights remain with BNA production committee / TRIGGER.",
+      "imageIdentitySource": "https://bna-anime.com/character/01.php",
+      "imageCheckedAt": "2026-11-19",
+      "imageCredit": "BNA production committee / TRIGGER",
+      "sourceLinks": [
+        {
+          "label": "Official character identity and portrait",
+          "url": "https://bna-anime.com/character/01.php",
+          "status": "Primary character roster and linked image retrieved 2026-11-19; studio credit is not individual illustrator attribution."
+        },
+        {
+          "label": "Official BNA X / Twitter account",
+          "url": "https://twitter.com/bna_anime",
+          "status": "Explicitly linked by official character site; account itself returned403. This is the show's account, not a personal character/artist account."
+        }
+      ]
     },
     {
       "id": "core-animal-crossing",
@@ -3909,8 +3999,14 @@
           "label": "Original Games? post",
           "url": "https://x.com/DatKawaiiWolfy/status/2122103484308971777",
           "status": "Primary browser read and video playback observed 2026-11-16; displayed publication 2026-11-15, not character debut"
+        },
+        {
+          "label": "Creator-linked public X account",
+          "url": "https://twitter.com/DatKawaiiWolfy",
+          "status": "Explicit link from creator Carrd; not inferred from matching username."
         }
-      ]
+      ],
+      "mediaStatus": "Reference images found on creator site but not copied or embedded: creator terms restrict artwork use and AI use. Link-only pending permission."
     },
     {
       "id": "core-belle-delphine",
