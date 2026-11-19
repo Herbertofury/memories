@@ -126,3 +126,13 @@ User-confirmed favorite character/reference, using the corrected spelling. [Refe
 - [x] Add [dedicated curated favorites](https://herbertofury.github.io/memories/favorites.html) with character/persona/universe filters, search, category and name/date sorting, independent of browser-local heart state. Source implemented 2026-11-19; deployed browser acceptance tracked separately.
 - [ ] Complete rights/source-verified non-explicit imagery and supported video coverage, including accurate missing-media states.
 - [ ] Verify keyboard/mobile sorting, real supported playback and blocked/age-restricted/embed-disabled fallbacks on the deployed site.
+
+## Owl-snake hybrid — Amikoru01 post
+
+User-confirmed favorite character, added 2026-11-19. **Owl–snake hybrid** is the user's descriptive label, not a verified proper name. [Exact supplied X post](https://x.com/Amikoru01/status/2123465423111016615?a=cvrUNKtCmZmQNqt_82g&s=20). The URL identifies @Amikoru01 as the source account; original artist, character owner, proper name and source universe remain unverified. Direct primary-post retrieval returned HTTP 403, so no image, caption or ownership claim was inferred from the link alone.
+
+Added to the structured character catalog and curated favorites selection. No artwork was copied or rehosted. Image and inline-video coverage remain pending source/rights verification; this entry is a source link, not a promised playable embed.
+
+- [x] Preserve favorite status and exact user source in both catalog and notes.
+- [ ] Verify primary-post caption, proper character name, original artist/owner and any source universe when accessible.
+- [ ] Add only permitted source-verified imagery or supported embeds; preserve honest unavailable-media state.
