@@ -26,3 +26,15 @@ test('requested favorites remain in curated catalog with honest media fields',()
  assert.equal(sorted.length,rows.length);
  assert.deepEqual(rows,data.items.filter(i=>curatedFavorite(i)));
 });
+
+test('iluvmeww retains exact reference and corrected clown-crew destination',()=>{
+ const row=data.items.find(i=>i.id==='core-iluvmeww');
+ assert.equal(row.url,'https://www.youtube.com/shorts/kT0JtBpVUh0?feature=share');
+ assert.match(row.description,/Honkistas clown-crew inspiration/);
+ assert.doesNotMatch(row.description,/Phonkistas inspiration/);
+ assert.match(row.description,/identity remains unverified/);
+ assert.match(row.evidence,/not proof of playback, soundtrack match or rights/);
+ const notes=require('node:fs').readFileSync(require('node:path').join(__dirname,'../docs/Core-memories.md'),'utf8');
+ assert.match(notes,/JetSetCraft Honkistas inspiration/);
+ assert.doesNotMatch(notes,/honkistas” is mapped to that established gang/);
+});

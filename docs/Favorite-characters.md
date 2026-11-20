@@ -116,13 +116,14 @@ User-confirmed favorite, recorded 2026-11-19. A real public persona, not a ficti
 
 ## iluvmeww
 
-User-confirmed favorite character/reference, using the corrected spelling. [Reference and evidence limits](Core-memories.md#iluvmeww--owner-selected-favorite-characterreference). Exact owner Short is included in the site catalog for its supported click-to-load player, with playback unverified.
+User-confirmed favorite character/reference, using the corrected spelling. JetSetCraft inspiration belongs to the Honkistas clown crew, not Phonkistas. [Reference and evidence limits](Core-memories.md#iluvmeww--owner-selected-favorite-characterreference). Exact owner Short is included in the site catalog for its supported click-to-load player, with playback unverified.
 
 ## Interactive collection and remaining presentation work
 
 [Browse the sortable collection](https://herbertofury.github.io/memories/). Characters, Core memories, category, search and original-date/A–Z controls are implemented in the site source. Browser-local hearts are a separate selection, not automatically all user-confirmed catalog favorites. Source images are partial; missing verified media is displayed honestly. Supported YouTube links offer opt-in players and direct-link fallback; an iframe loading does not prove actual playback. Other hosts are links, not universal inline players.
 
 - [x] Add Belle Delphine and iluvmeww to the actual data catalog, not prose alone.
+- [x] Reconcile iluvmeww's Honkistas clown-crew correction across notes, catalog and generated research queue (2026-11-20).
 - [x] Add [dedicated curated favorites](https://herbertofury.github.io/memories/favorites.html) with character/persona/universe filters, search, category and name/date sorting, independent of browser-local heart state. Source implemented 2026-11-19; deployed browser acceptance tracked separately.
 - [ ] Complete rights/source-verified non-explicit imagery and supported video coverage, including accurate missing-media states.
 - [ ] Verify keyboard/mobile sorting, real supported playback and blocked/age-restricted/embed-disabled fallbacks on the deployed site.
